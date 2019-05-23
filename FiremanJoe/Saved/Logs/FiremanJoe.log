@@ -3813,3 +3813,1018 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.23-00.38.48:772][873]LogShaderCompilers: Display: Shaders left to compile 15
 [2019.05.23-00.38.48:772][873]LogShaderCompilers: Display: Shaders left to compile 5
 [2019.05.23-00.38.49:246][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-00.46.11:429][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fase2" FILE="../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/fase2_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.23-00.46.12:023][584]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/fase2_Auto5041D77CD410B42857CEF648D49A798FA.tmp' to '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/fase2_Auto5.umap'
+[2019.05.23-00.46.12:028][584]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/fase2' took 0.632
+[2019.05.23-00.46.12:028][584]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.632
+[2019.05.23-00.46.12:029][584]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/Landscape_Material] ([1] browsable assets)...
+[2019.05.23-00.46.12:049][584]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/Landscape_Material.Landscape_Material]
+[2019.05.23-00.46.12:049][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/Landscape_Material]
+[2019.05.23-00.46.12:102][584]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Landscape_Material_Auto5ADA2866A480FA8650F21A19B492E042C.tmp' to '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/StarterContent/Materials/Landscape_Material_Auto5.uasset'
+[2019.05.23-00.46.12:105][584]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_CobbleStone_Rough_Mat] ([1] browsable assets)...
+[2019.05.23-00.46.12:127][584]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_CobbleStone_Rough_Mat.T_CobbleStone_Rough_Mat]
+[2019.05.23-00.46.12:127][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_CobbleStone_Rough_Mat]
+[2019.05.23-00.46.12:176][584]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/T_CobbleStone_Rough_Mat_Auto516B1A1854367FE945E693281FE69C754.tmp' to '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Rough_Mat_Auto5.uasset'
+[2019.05.23-00.46.12:178][584]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Concrete_Tiles_Mat] ([1] browsable assets)...
+[2019.05.23-00.46.12:204][584]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Concrete_Tiles_Mat.T_Concrete_Tiles_Mat]
+[2019.05.23-00.46.12:204][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Concrete_Tiles_Mat]
+[2019.05.23-00.46.12:237][584]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/T_Concrete_Tiles_Mat_Auto5AF2461E04F25ED156D11768AD6B2DDBF.tmp' to '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/StarterContent/Textures/T_Concrete_Tiles_Mat_Auto5.uasset'
+[2019.05.23-00.46.12:239][584]LogFileHelpers: Auto-saving content packages took 0.210
+[2019.05.23-00.46.23:660][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2019.05.23-00.46.27:390][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.46.58:944][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.47.01:253][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.47.04:103][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.47.20:168][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.47.23:422][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.47.25:153][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.47.35:366][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.47.45:316][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2019.05.23-00.47.52:544][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2019.05.23-00.47.55:425][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2019.05.23-00.47.58:510][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.47.58:593][400]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-00.47.58:607][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.47.58:607][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-00.47.58:607][400]PIE: New page: PIE session: fase2 (May 22, 2019, 6:47:58 PM)
+[2019.05.23-00.47.58:608][400]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase2
+[2019.05.23-00.47.58:655][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047081s)
+[2019.05.23-00.47.58:655][400]LogAIModule: Creating AISystem for world fase2
+[2019.05.23-00.47.58:656][400]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2019.05.23-00.47.58:656][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase2.fase2 to /Game/UEDPIE_0_fase2.fase2 (0.047965s)
+[2019.05.23-00.47.58:691][400]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-00.47.58:713][400]LogInit: FAudioDevice initialized.
+[2019.05.23-00.47.58:743][400]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.23-00.47.58:755][400]LogWorld: Bringing World /Game/UEDPIE_0_fase2.fase2 up for play (max tick rate 60) at 2019.05.22-21.47.58
+[2019.05.23-00.47.58:756][400]LogWorld: Bringing up level for play took: 0.011329
+[2019.05.23-00.47.58:779][400]PIE: Play in editor start time for /Game/UEDPIE_0_fase2 0.894
+[2019.05.23-00.47.58:780][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.53.03:364][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.53.26:198][601]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Avell\Desktop\Asfalto.jpg)
+[2019.05.23-00.53.26:234][601]LogTexture: Display: Building textures: Asfalto (BGRA8, 626X626)
+[2019.05.23-00.53.28:434][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.53.28:435][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-00.53.28:478][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-00.53.28:479][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.53.28:530][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-00.53.28:557][723]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.05.23-00.53.30:943][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.53.31:442][888]LogMaterial: Display: Missing cached shader map for material Asfalto_Mat, compiling. 
+[2019.05.23-00.53.31:464][888]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.23-00.53.31:464][888]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.23-00.53.31:464][888]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.23-00.53.40:202][390]Cmd: TRANSACTION UNDO
+[2019.05.23-00.53.40:202][390]LogEditorTransaction: Undo Create Actors
+[2019.05.23-00.53.45:577][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2019.05.23-00.54.03:513][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.54.03:613][774]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-00.54.03:631][774]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.54.03:631][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-00.54.03:631][774]PIE: New page: PIE session: fase2 (May 22, 2019, 6:54:03 PM)
+[2019.05.23-00.54.03:631][774]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase2
+[2019.05.23-00.54.03:663][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032417s)
+[2019.05.23-00.54.03:664][774]LogAIModule: Creating AISystem for world fase2
+[2019.05.23-00.54.03:664][774]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2019.05.23-00.54.03:664][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase2.fase2 to /Game/UEDPIE_0_fase2.fase2 (0.033388s)
+[2019.05.23-00.54.03:701][774]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-00.54.03:720][774]LogInit: FAudioDevice initialized.
+[2019.05.23-00.54.03:751][774]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.23-00.54.03:756][774]LogWorld: Bringing World /Game/UEDPIE_0_fase2.fase2 up for play (max tick rate 60) at 2019.05.22-21.54.03
+[2019.05.23-00.54.03:757][774]LogWorld: Bringing up level for play took: 0.004427
+[2019.05.23-00.54.03:777][774]PIE: Play in editor start time for /Game/UEDPIE_0_fase2 -0.108
+[2019.05.23-00.54.03:778][774]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.54.08:966][ 82]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.54.08:967][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-00.54.09:005][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-00.54.09:005][ 82]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.54.09:055][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-00.54.09:079][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.05.23-00.54.15:540][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.54.15:623][474]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-00.54.15:639][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.54.15:639][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-00.54.15:639][474]PIE: New page: PIE session: fase2 (May 22, 2019, 6:54:15 PM)
+[2019.05.23-00.54.15:639][474]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase2
+[2019.05.23-00.54.15:673][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034269s)
+[2019.05.23-00.54.15:674][474]LogAIModule: Creating AISystem for world fase2
+[2019.05.23-00.54.15:674][474]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2019.05.23-00.54.15:674][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase2.fase2 to /Game/UEDPIE_0_fase2.fase2 (0.035116s)
+[2019.05.23-00.54.15:710][474]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-00.54.15:728][474]LogInit: FAudioDevice initialized.
+[2019.05.23-00.54.15:762][474]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.23-00.54.15:772][474]LogWorld: Bringing World /Game/UEDPIE_0_fase2.fase2 up for play (max tick rate 60) at 2019.05.22-21.54.15
+[2019.05.23-00.54.15:773][474]LogWorld: Bringing up level for play took: 0.008771
+[2019.05.23-00.54.15:793][474]PIE: Play in editor start time for /Game/UEDPIE_0_fase2 -0.092
+[2019.05.23-00.54.15:794][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.55.21:121][389]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.55.21:121][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-00.55.21:159][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-00.55.21:160][389]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.55.21:204][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-00.55.21:228][390]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.05.23-00.57.25:004][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-00.57.27:010][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.57.34:130][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.57.34:656][658]LogMaterial: Display: Missing cached shader map for material T_Rock_Basalt_Mat, compiling. 
+[2019.05.23-00.57.34:671][658]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.23-00.57.34:671][658]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.23-00.57.34:671][658]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.23-00.57.44:550][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-00.57.44:667][249]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-00.57.44:681][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.57.44:681][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-00.57.44:681][249]PIE: New page: PIE session: fase2 (May 22, 2019, 6:57:44 PM)
+[2019.05.23-00.57.44:681][249]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase2
+[2019.05.23-00.57.44:712][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030253s)
+[2019.05.23-00.57.44:712][249]LogAIModule: Creating AISystem for world fase2
+[2019.05.23-00.57.44:712][249]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2019.05.23-00.57.44:712][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase2.fase2 to /Game/UEDPIE_0_fase2.fase2 (0.031038s)
+[2019.05.23-00.57.44:748][249]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-00.57.44:767][249]LogInit: FAudioDevice initialized.
+[2019.05.23-00.57.44:803][249]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.23-00.57.44:813][249]LogWorld: Bringing World /Game/UEDPIE_0_fase2.fase2 up for play (max tick rate 60) at 2019.05.22-21.57.44
+[2019.05.23-00.57.44:813][249]LogWorld: Bringing up level for play took: 0.007625
+[2019.05.23-00.57.44:831][249]PIE: Play in editor start time for /Game/UEDPIE_0_fase2 0.946
+[2019.05.23-00.57.44:832][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.57.48:387][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.57.48:387][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-00.57.48:423][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-00.57.48:423][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-00.57.48:471][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-00.57.48:493][459]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.23-00.58.17:710][585]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-01.06.48:721][649]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.23-01.06.48:752][649]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.23-01.06.48:753][649]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.23-01.06.48:753][649]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.23-01.06.48:753][649]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.23-01.06.48:753][649]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.23-01.06.48:754][649]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.23-01.06.48:754][649]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.23-01.06.48:754][649]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.23-01.06.58:917][660]LogInit: XAudio2 using 'Alto-falantes (JBL Flip 4 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.23-01.07.00:799][661]LogInit: XAudio2 using 'Alto-falantes (JBL Flip 4 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.23-01.07.01:845][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fase2" FILE="../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/fase2_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.23-01.07.09:734][661]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/fase2_Auto64657CC054D674E1538427682A5332B98.tmp' to '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/fase2_Auto6.umap'
+[2019.05.23-01.07.09:744][661]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/fase2' took 8.168
+[2019.05.23-01.07.09:744][661]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 8.168
+[2019.05.23-01.07.09:780][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/Asfalto] ([1] browsable assets)...
+[2019.05.23-01.07.09:854][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/Textures/Asfalto.Asfalto]
+[2019.05.23-01.07.09:854][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/Asfalto]
+[2019.05.23-01.07.09:876][661]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Asfalto_Auto6500C2BBC4BC4FBB0656CD69E371A7418.tmp' to '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/StarterContent/Textures/Asfalto_Auto6.uasset'
+[2019.05.23-01.07.09:880][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Basalt_Mat] ([1] browsable assets)...
+[2019.05.23-01.07.09:904][661]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Rock_Basalt_Mat.T_Rock_Basalt_Mat]
+[2019.05.23-01.07.09:904][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Basalt_Mat]
+[2019.05.23-01.07.09:932][661]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/T_Rock_Basalt_Mat_Auto65EF353A040AE9C9B868D54919F0C200B.tmp' to '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Basalt_Mat_Auto6.uasset'
+[2019.05.23-01.07.09:934][661]LogFileHelpers: Auto-saving content packages took 0.154
+[2019.05.23-01.07.10:079][662]LogInit: XAudio2 using 'Alto-falantes (JBL Flip 4 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.23-01.07.41:502][756]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.749 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.23-01.41.28:532][798]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{590a7df7-3167-493b-ac38-fb0ce820749b} was removed. Shutting down audio device.
+[2019.05.23-01.41.28:532][798]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-01.52.02:264][688]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-01.52.04:008][693]LogInit: XAudio2 using 'Alto-falantes (JBL Flip 4 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.23-01.52.04:618][695]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{590a7df7-3167-493b-ac38-fb0ce820749b} was removed. Shutting down audio device.
+[2019.05.23-01.52.04:618][695]LogInit: XAudio2 using 'Alto-falantes (JBL Flip 4 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.23-01.53.41:397][983]LogInit: XAudio2 using 'Alto-falantes (JBL Flip 4 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.23-01.53.45:270][995]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{590a7df7-3167-493b-ac38-fb0ce820749b} was removed. Shutting down audio device.
+[2019.05.23-01.53.45:270][995]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-02.23.12:887][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2019.05.23-02.27.49:138][191]LogInit: XAudio2 using 'Alto-falantes (JBL Flip 4 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.23-02.27.49:536][192]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{590a7df7-3167-493b-ac38-fb0ce820749b} was removed. Shutting down audio device.
+[2019.05.23-02.27.49:536][192]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-02.27.49:858][193]LogInit: XAudio2 using 'Alto-falantes (JBL Flip 4 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.23-02.28.20:615][285]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{590a7df7-3167-493b-ac38-fb0ce820749b} was removed. Shutting down audio device.
+[2019.05.23-02.28.20:615][285]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-02.31.44:534][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.31.46:211][983]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-02.31.46:227][983]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.31.46:227][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-02.31.46:227][983]PIE: New page: PIE session: fase2 (May 22, 2019, 8:31:46 PM)
+[2019.05.23-02.31.46:227][983]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase2
+[2019.05.23-02.31.46:272][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044946s)
+[2019.05.23-02.31.46:280][983]LogAIModule: Creating AISystem for world fase2
+[2019.05.23-02.31.46:280][983]LogPlayLevel: PIE: World Init took: (0.007037s)
+[2019.05.23-02.31.46:280][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase2.fase2 to /Game/UEDPIE_0_fase2.fase2 (0.052163s)
+[2019.05.23-02.31.46:316][983]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-02.31.46:336][983]LogInit: FAudioDevice initialized.
+[2019.05.23-02.31.46:371][983]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.23-02.31.46:386][983]LogWorld: Bringing World /Game/UEDPIE_0_fase2.fase2 up for play (max tick rate 60) at 2019.05.22-23.31.46
+[2019.05.23-02.31.46:387][983]LogWorld: Bringing up level for play took: 0.011995
+[2019.05.23-02.31.46:415][983]PIE: Play in editor start time for /Game/UEDPIE_0_fase2 0.941
+[2019.05.23-02.31.46:416][983]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.32.01:656][894]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.32.01:656][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-02.32.01:693][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-02.32.01:693][894]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.32.01:723][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-02.32.01:776][896]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.23-02.32.06:128][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2019.05.23-02.32.09:089][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.32.47:151][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.32.52:656][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2019.05.23-02.33.03:992][974]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.23-02.33.06:894][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.33.09:836][254]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.05.23-02.33.23:364][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.33.27:580][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.33.40:184][348]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.23-02.33.42:582][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.33.52:377][ 35]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.23-02.33.57:679][333]Cmd: TRANSACTION UNDO
+[2019.05.23-02.33.57:679][333]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.23-02.33.58:220][360]Cmd: TRANSACTION UNDO
+[2019.05.23-02.33.58:220][360]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.23-02.33.59:061][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.34.02:830][622]Cmd: SELECT NONE
+[2019.05.23-02.34.05:418][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.34.09:086][994]Cmd: POLY SELECT ADJACENT ALL
+[2019.05.23-02.34.18:717][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.34.19:953][280]Cmd: POLY SELECT ADJACENT ALL
+[2019.05.23-02.34.26:425][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.34.37:540][326]Cmd: DELETE
+[2019.05.23-02.34.37:540][326]Cmd: ACTOR DELETE
+[2019.05.23-02.34.37:574][326]LogEditorActor: Deleted Actor: Brush
+[2019.05.23-02.34.37:611][326]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2019.05.23-02.34.40:002][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.34.40:378][489]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.05.23-02.34.43:668][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.34.44:983][745]Cmd: POLY SELECT ADJACENT ALL
+[2019.05.23-02.34.46:593][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.35.09:031][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.36.09:344][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.36.21:071][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.36.57:473][321]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2019.05.23-02.37.00:355][491]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2019.05.23-02.37.16:950][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.37.22:001][784]Cmd: SELECT NONE
+[2019.05.23-02.37.34:603][477]LogEditorViewport: Clicking Background
+[2019.05.23-02.37.34:920][496]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2019.05.23-02.37.36:259][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.37.44:074][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.37.44:723][ 80]LogEditorViewport: Clicking Background
+[2019.05.23-02.37.46:040][159]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2019.05.23-02.37.52:306][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.38.05:397][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.38.38:163][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.38.41:652][783]Cmd: TRANSACTION UNDO
+[2019.05.23-02.38.41:653][783]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.39.28:626][577]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush7)
+[2019.05.23-02.39.39:852][249]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush11)
+[2019.05.23-02.39.50:446][880]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush7)
+[2019.05.23-02.40.23:665][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.40.29:674][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.40.30:764][133]Cmd: POLY SELECT ADJACENT ALL
+[2019.05.23-02.40.33:672][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.40.34:772][369]Cmd: POLY SELECT ADJACENT ALL
+[2019.05.23-02.40.37:379][519]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.40.55:808][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.41.02:213][191]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.23-02.41.13:735][863]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.23-02.41.13:784][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.41.16:847][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.41.16:930][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-02.41.16:944][ 40]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.41.16:944][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-02.41.16:945][ 40]PIE: New page: PIE session: fase2 (May 22, 2019, 8:41:16 PM)
+[2019.05.23-02.41.16:945][ 40]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase2
+[2019.05.23-02.41.16:978][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033541s)
+[2019.05.23-02.41.16:980][ 40]LogAIModule: Creating AISystem for world fase2
+[2019.05.23-02.41.16:980][ 40]LogPlayLevel: PIE: World Init took: (0.001728s)
+[2019.05.23-02.41.16:980][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase2.fase2 to /Game/UEDPIE_0_fase2.fase2 (0.035470s)
+[2019.05.23-02.41.17:016][ 40]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-02.41.17:034][ 40]LogInit: FAudioDevice initialized.
+[2019.05.23-02.41.17:065][ 40]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.23-02.41.17:072][ 40]LogWorld: Bringing World /Game/UEDPIE_0_fase2.fase2 up for play (max tick rate 60) at 2019.05.22-23.41.17
+[2019.05.23-02.41.17:072][ 40]LogWorld: Bringing up level for play took: 0.006043
+[2019.05.23-02.41.17:089][ 40]PIE: Play in editor start time for /Game/UEDPIE_0_fase2 -0.385
+[2019.05.23-02.41.17:098][ 40]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.41.17:803][ 80]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.41.17:803][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-02.41.17:844][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-02.41.17:844][ 80]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.41.17:881][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-02.41.17:902][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.23-02.41.20:749][249]Cmd: SELECT NONE
+[2019.05.23-02.41.44:086][996]Cmd: TRANSACTION UNDO
+[2019.05.23-02.41.44:086][996]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.41.56:202][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.42.07:083][348]Cmd: EDCALLBACK SURFPROPS
+[2019.05.23-02.42.24:185][362]Cmd: TRANSACTION UNDO
+[2019.05.23-02.42.24:185][362]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.42.24:751][390]Cmd: TRANSACTION UNDO
+[2019.05.23-02.42.24:751][390]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.23-02.42.25:316][422]Cmd: TRANSACTION UNDO
+[2019.05.23-02.42.25:317][422]LogEditorTransaction: Undo Select Surface
+[2019.05.23-02.42.25:717][444]Cmd: TRANSACTION UNDO
+[2019.05.23-02.42.25:717][444]LogEditorTransaction: Undo Edit Z
+[2019.05.23-02.42.26:394][482]Cmd: TRANSACTION UNDO
+[2019.05.23-02.42.26:395][482]LogEditorTransaction: Undo Edit Y
+[2019.05.23-02.42.26:971][515]Cmd: TRANSACTION UNDO
+[2019.05.23-02.42.26:971][515]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.42.33:924][726]Cmd: TRANSACTION REDO
+[2019.05.23-02.42.33:925][726]LogEditorTransaction: Redo Move Actors
+[2019.05.23-02.42.34:703][768]Cmd: TRANSACTION REDO
+[2019.05.23-02.42.34:703][768]LogEditorTransaction: Redo Edit Y
+[2019.05.23-02.42.35:033][785]Cmd: TRANSACTION REDO
+[2019.05.23-02.42.35:033][785]LogEditorTransaction: Redo Edit Z
+[2019.05.23-02.42.35:775][827]Cmd: TRANSACTION REDO
+[2019.05.23-02.42.35:776][827]LogEditorTransaction: Redo Select Surface
+[2019.05.23-02.42.41:584][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.43.06:806][628]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.23-02.43.18:468][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.43.19:736][ 30]Cmd: POLY SELECT ADJACENT ALL
+[2019.05.23-02.43.22:327][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.43.23:311][240]Cmd: POLY SELECT ADJACENT ALL
+[2019.05.23-02.43.24:810][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.43.31:264][700]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.23-02.43.36:420][  3]Cmd: TRANSACTION UNDO
+[2019.05.23-02.43.36:420][  3]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.23-02.43.37:028][ 26]Cmd: TRANSACTION UNDO
+[2019.05.23-02.43.37:028][ 26]LogEditorTransaction: Undo Set Material
+[2019.05.23-02.44.37:624][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fase2" FILE="../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/fase2_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.23-02.44.38:262][485]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/fase2_Auto7D011DD594C5B9478F7E3DBB2B7DD0433.tmp' to '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/fase2_Auto7.umap'
+[2019.05.23-02.44.38:271][485]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/fase2' took 0.688
+[2019.05.23-02.44.38:271][485]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.688
+[2019.05.23-02.44.50:001][832]Cmd: TRANSACTION UNDO
+[2019.05.23-02.44.50:001][832]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.44.50:017][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.23-02.44.50:017][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.23-02.44.50:017][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.23-02.44.50:017][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 20
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 21
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 22
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 23
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 24
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 25
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 26
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 27
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 28
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 29
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 30
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 31
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 32
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 33
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 34
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 35
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 36
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 37
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 38
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 39
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 40
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 41
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 42
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 43
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 44
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 45
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 46
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 47
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 48
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 49
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 50
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 51
+[2019.05.23-02.44.50:018][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 52
+[2019.05.23-02.44.50:019][832]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase2.fase2:PersistentLevel.ModelComponent_198' invalid (960 verts, 0 indices).
+[2019.05.23-02.44.50:019][832]LogPhysics: Warning: Attempt to build physics data for /Game/fase2.fase2:PersistentLevel.ModelComponent_198.BodySetup_0 when we are unable to.
+[2019.05.23-02.44.50:019][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.23-02.44.50:019][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.23-02.44.50:019][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase2.fase2:PersistentLevel.ModelComponent_199' invalid (960 verts, 0 indices).
+[2019.05.23-02.44.50:020][832]LogPhysics: Warning: Attempt to build physics data for /Game/fase2.fase2:PersistentLevel.ModelComponent_199.BodySetup_0 when we are unable to.
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase2.fase2:PersistentLevel.ModelComponent_200' invalid (960 verts, 0 indices).
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Attempt to build physics data for /Game/fase2.fase2:PersistentLevel.ModelComponent_200.BodySetup_0 when we are unable to.
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.23-02.44.50:021][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.23-02.44.50:022][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.23-02.44.50:022][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.23-02.44.50:022][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.23-02.44.50:022][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.23-02.44.50:022][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.23-02.44.50:022][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.23-02.44.50:022][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.05.23-02.44.50:022][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.05.23-02.44.50:022][832]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.05.23-02.44.50:022][832]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase2.fase2:PersistentLevel.ModelComponent_201' invalid (960 verts, 0 indices).
+[2019.05.23-02.44.50:022][832]LogPhysics: Warning: Attempt to build physics data for /Game/fase2.fase2:PersistentLevel.ModelComponent_201.BodySetup_0 when we are unable to.
+[2019.05.23-02.44.52:394][969]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.45.03:117][550]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.23-02.45.07:617][810]Cmd: TRANSACTION UNDO
+[2019.05.23-02.45.07:617][810]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.45.07:634][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.23-02.45.07:634][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.23-02.45.07:634][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 20
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 21
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 22
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 23
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 24
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 25
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 26
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 27
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 28
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 29
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 30
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 31
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 32
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 33
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 34
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 35
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 36
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 37
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 38
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 39
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 40
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 41
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 42
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 43
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 44
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 45
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 46
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 47
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 48
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 49
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 50
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 51
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 52
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase2.fase2:PersistentLevel.ModelComponent_198' invalid (960 verts, 0 indices).
+[2019.05.23-02.45.07:635][810]LogPhysics: Warning: Attempt to build physics data for /Game/fase2.fase2:PersistentLevel.ModelComponent_198.BodySetup_0 when we are unable to.
+[2019.05.23-02.45.07:636][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.23-02.45.07:636][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.23-02.45.07:636][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase2.fase2:PersistentLevel.ModelComponent_199' invalid (960 verts, 0 indices).
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Attempt to build physics data for /Game/fase2.fase2:PersistentLevel.ModelComponent_199.BodySetup_0 when we are unable to.
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.23-02.45.07:637][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase2.fase2:PersistentLevel.ModelComponent_200' invalid (960 verts, 0 indices).
+[2019.05.23-02.45.07:638][810]LogPhysics: Warning: Attempt to build physics data for /Game/fase2.fase2:PersistentLevel.ModelComponent_200.BodySetup_0 when we are unable to.
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase2.fase2:PersistentLevel.ModelComponent_201' invalid (960 verts, 0 indices).
+[2019.05.23-02.45.07:640][810]LogPhysics: Warning: Attempt to build physics data for /Game/fase2.fase2:PersistentLevel.ModelComponent_201.BodySetup_0 when we are unable to.
+[2019.05.23-02.45.10:266][956]Cmd: TRANSACTION UNDO
+[2019.05.23-02.45.10:267][956]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.45.11:409][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.45.20:177][541]Cmd: TRANSACTION UNDO
+[2019.05.23-02.45.20:177][541]LogEditorTransaction: Undo Apply Material to Surface
+[2019.05.23-02.45.23:156][710]Cmd: TRANSACTION UNDO
+[2019.05.23-02.45.23:156][710]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 20
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 21
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 22
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 23
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 24
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 25
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 26
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 27
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 28
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 29
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 30
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 31
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 32
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 33
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 34
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 35
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 36
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 37
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 38
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 39
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 40
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 41
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 42
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 43
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 44
+[2019.05.23-02.45.23:170][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 45
+[2019.05.23-02.45.23:171][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 46
+[2019.05.23-02.45.23:171][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 47
+[2019.05.23-02.45.23:171][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 48
+[2019.05.23-02.45.23:171][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 49
+[2019.05.23-02.45.23:171][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 50
+[2019.05.23-02.45.23:171][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 51
+[2019.05.23-02.45.23:171][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 52
+[2019.05.23-02.45.23:171][710]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase2.fase2:PersistentLevel.ModelComponent_198' invalid (960 verts, 0 indices).
+[2019.05.23-02.45.23:171][710]LogPhysics: Warning: Attempt to build physics data for /Game/fase2.fase2:PersistentLevel.ModelComponent_198.BodySetup_0 when we are unable to.
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase2.fase2:PersistentLevel.ModelComponent_199' invalid (960 verts, 0 indices).
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Attempt to build physics data for /Game/fase2.fase2:PersistentLevel.ModelComponent_199.BodySetup_0 when we are unable to.
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase2.fase2:PersistentLevel.ModelComponent_200' invalid (960 verts, 0 indices).
+[2019.05.23-02.45.23:173][710]LogPhysics: Warning: Attempt to build physics data for /Game/fase2.fase2:PersistentLevel.ModelComponent_200.BodySetup_0 when we are unable to.
+[2019.05.23-02.45.23:174][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.23-02.45.23:174][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.23-02.45.23:174][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.23-02.45.23:174][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.23-02.45.23:174][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.23-02.45.23:174][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.23-02.45.23:174][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.23-02.45.23:174][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase2.fase2:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase2.fase2:PersistentLevel.ModelComponent_201' invalid (960 verts, 0 indices).
+[2019.05.23-02.45.23:175][710]LogPhysics: Warning: Attempt to build physics data for /Game/fase2.fase2:PersistentLevel.ModelComponent_201.BodySetup_0 when we are unable to.
+[2019.05.23-02.45.24:243][772]Cmd: TRANSACTION UNDO
+[2019.05.23-02.45.24:243][772]LogEditorTransaction: Undo Apply Material to Surface
+[2019.05.23-02.45.26:524][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.45.31:814][190]Cmd: TRANSACTION UNDO
+[2019.05.23-02.45.31:814][190]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.45.33:643][290]Cmd: TRANSACTION UNDO
+[2019.05.23-02.45.33:643][290]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.45.48:931][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.46.16:570][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.46.23:759][635]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.23-02.46.23:941][643]Cmd: TRANSACTION UNDO
+[2019.05.23-02.46.23:941][643]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.23-02.46.24:705][684]Cmd: TRANSACTION UNDO
+[2019.05.23-02.46.24:705][684]LogEditorTransaction: Undo Set Location
+[2019.05.23-02.46.32:075][952]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush17)
+[2019.05.23-02.46.35:824][174]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.23-02.46.38:775][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.46.53:159][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.46.54:610][802]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.23-02.46.54:909][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.47.14:778][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.47.39:394][942]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.47.39:820][963]Cmd: MODE GRID=1
+[2019.05.23-02.47.40:268][986]Cmd: MODE GRID=0
+[2019.05.23-02.47.40:798][ 13]Cmd: MODE GRID=1
+[2019.05.23-02.47.42:056][ 77]Cmd: TRANSACTION UNDO
+[2019.05.23-02.47.42:056][ 77]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.47.46:237][266]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.23-02.47.58:041][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.48.08:906][310]Cmd: TRANSACTION UNDO
+[2019.05.23-02.48.08:906][310]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.48.09:275][327]Cmd: TRANSACTION UNDO
+[2019.05.23-02.48.09:276][327]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.48.09:720][349]Cmd: TRANSACTION UNDO
+[2019.05.23-02.48.09:720][349]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.48.10:880][413]Cmd: TRANSACTION UNDO
+[2019.05.23-02.48.10:880][413]LogEditorTransaction: Undo Edit X
+[2019.05.23-02.48.12:328][482]Cmd: TRANSACTION UNDO
+[2019.05.23-02.48.12:328][482]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.48.17:251][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.48.30:854][438]Cmd: TRANSACTION UNDO
+[2019.05.23-02.48.30:854][438]LogEditorTransaction: Undo Move Actors
+[2019.05.23-02.48.49:846][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.49.12:681][832]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.23-02.49.26:184][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.49.27:741][692]Cmd: MODE GRID=0
+[2019.05.23-02.49.32:537][974]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush21)
+[2019.05.23-02.49.40:439][425]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.23-02.49.58:935][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.50.00:723][656]Cmd: EDIT COPY
+[2019.05.23-02.50.03:569][819]Cmd: EDIT PASTE
+[2019.05.23-02.50.10:079][185]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.23-02.50.13:633][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.50.37:503][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.51.09:696][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.51.22:487][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.51.52:317][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.53.09:774][ 69]LogSlate: Window 'Select Path' being destroyed
+[2019.05.23-02.53.09:912][ 69]LogStaticMesh: Building static mesh Road-400_Mesh...
+[2019.05.23-02.53.09:937][ 69]LogStaticMesh: Built static mesh [0.03s] /Game/Road/Road-400_Mesh.Road-400_Mesh
+[2019.05.23-02.53.09:949][ 69]LogActorFactory: Actor Factory created Road-400_Mesh
+[2019.05.23-02.53.09:978][ 69]LogEditor: Error: Actor 'Brush /Game/fase2.fase2:PersistentLevel.BoxBrush22' is marked pending kill and cannot be converted
+[2019.05.23-02.53.09:978][ 69]LogEditor: Error: Actor 'Brush /Game/fase2.fase2:PersistentLevel.BoxBrush11' is marked pending kill and cannot be converted
+[2019.05.23-02.53.09:978][ 69]LogEditor: Error: Actor 'Brush /Game/fase2.fase2:PersistentLevel.BoxBrush7_3' is marked pending kill and cannot be converted
+[2019.05.23-02.53.09:978][ 69]LogEditor: Error: Actor 'Brush /Game/fase2.fase2:PersistentLevel.BoxBrush14' is marked pending kill and cannot be converted
+[2019.05.23-02.53.09:978][ 69]LogEditor: Error: Actor 'Brush /Game/fase2.fase2:PersistentLevel.BoxBrush16' is marked pending kill and cannot be converted
+[2019.05.23-02.53.09:978][ 69]LogEditor: Error: Actor 'Brush /Game/fase2.fase2:PersistentLevel.BoxBrush8' is marked pending kill and cannot be converted
+[2019.05.23-02.53.09:978][ 69]LogEditor: Error: Actor 'Brush /Game/fase2.fase2:PersistentLevel.BoxBrush13' is marked pending kill and cannot be converted
+[2019.05.23-02.53.09:978][ 69]LogEditor: Error: Actor 'Brush /Game/fase2.fase2:PersistentLevel.BoxBrush15' is marked pending kill and cannot be converted
+[2019.05.23-02.53.09:978][ 69]LogEditor: Error: Actor 'Brush /Game/fase2.fase2:PersistentLevel.BoxBrush20' is marked pending kill and cannot be converted
+[2019.05.23-02.53.09:978][ 69]LogEditor: Error: Actor 'Brush /Game/fase2.fase2:PersistentLevel.BoxBrush19' is marked pending kill and cannot be converted
+[2019.05.23-02.53.09:978][ 69]LogEditor: Error: Actor 'Brush /Game/fase2.fase2:PersistentLevel.BoxBrush17' is marked pending kill and cannot be converted
+[2019.05.23-02.53.09:978][ 69]LogEditor: Error: Actor 'Brush /Game/fase2.fase2:PersistentLevel.BoxBrush18' is marked pending kill and cannot be converted
+[2019.05.23-02.53.09:979][ 69]LogEditor: Error: Actor 'Brush /Game/fase2.fase2:PersistentLevel.BoxBrush21' is marked pending kill and cannot be converted
+[2019.05.23-02.53.09:979][ 69]EditorErrors: New page: Actor Reattachment
+[2019.05.23-02.53.41:904][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2019.05.23-02.53.42:556][468]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor3)
+[2019.05.23-02.53.43:269][506]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor4)
+[2019.05.23-02.53.44:048][550]Cmd: DELETE
+[2019.05.23-02.53.44:048][550]Cmd: ACTOR DELETE
+[2019.05.23-02.53.44:071][550]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.23-02.53.44:071][550]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.23-02.53.44:071][550]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.23-02.53.44:097][550]LogEditorActor: Deleted 3 Actors (0.048 secs)
+[2019.05.23-02.53.46:293][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.53.50:127][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.53.54:883][158]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.23-02.53.55:453][184]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.23-02.53.56:748][258]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.54.08:769][500]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.05.23-02.54.08:809][500]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.54.11:155][639]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.23-02.54.12:002][688]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.54.14:485][836]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.23-02.54.39:433][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.54.39:485][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fase2" FILE="../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/fase2_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.23-02.54.40:011][327]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/fase2_Auto8E9FFB47F4173574860AF019B75A4C4F2.tmp' to '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/fase2_Auto8.umap'
+[2019.05.23-02.54.40:014][327]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/fase2' took 0.555
+[2019.05.23-02.54.40:014][327]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.555
+[2019.05.23-02.54.40:016][327]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Road/Road-400_Mesh] ([1] browsable assets)...
+[2019.05.23-02.54.40:029][327]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Road/Road-400_Mesh.Road-400_Mesh]
+[2019.05.23-02.54.40:029][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/Road/Road-400_Mesh]
+[2019.05.23-02.54.40:063][327]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Road-400_Mesh_Auto8D00FB8F24041E3FC5D22B4B32E9B05C5.tmp' to '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/Autosaves/Game/Road/Road-400_Mesh_Auto8.uasset'
+[2019.05.23-02.54.40:066][327]LogFileHelpers: Auto-saving content packages took 0.050
+[2019.05.23-02.55.31:050][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.55.36:439][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.55.53:413][664]Cmd: TRANSACTION UNDO
+[2019.05.23-02.55.53:413][664]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2019.05.23-02.55.53:425][664]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2019.05.23-02.55.53:435][664]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.23-02.55.56:732][832]Cmd: TRANSACTION UNDO
+[2019.05.23-02.55.56:733][832]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2019.05.23-02.55.57:102][837]Cmd: TRANSACTION UNDO
+[2019.05.23-02.55.57:102][837]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2019.05.23-02.56.00:171][976]Cmd: TRANSACTION UNDO
+[2019.05.23-02.56.00:171][976]LogEditorTransaction: Undo Add Landscape Spline Segment
+[2019.05.23-02.56.00:697][992]Cmd: TRANSACTION UNDO
+[2019.05.23-02.56.00:697][992]LogEditorTransaction: Undo Add Landscape Spline Segment
+[2019.05.23-02.56.01:412][ 33]Cmd: TRANSACTION UNDO
+[2019.05.23-02.56.01:412][ 33]LogEditorTransaction: Undo Add Landscape Spline Segment
+[2019.05.23-02.56.02:370][ 89]Cmd: TRANSACTION UNDO
+[2019.05.23-02.56.02:370][ 89]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2019.05.23-02.56.26:133][457]Cmd: TRANSACTION UNDO
+[2019.05.23-02.56.26:133][457]LogEditorTransaction: Undo Rotate Actors
+[2019.05.23-02.56.26:935][490]Cmd: TRANSACTION UNDO
+[2019.05.23-02.56.26:935][490]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2019.05.23-02.56.29:044][602]Cmd: TRANSACTION UNDO
+[2019.05.23-02.56.29:044][602]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2019.05.23-02.57.27:838][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.57.29:717][590]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.23-02.57.30:307][619]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.23-02.57.31:306][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.57.32:130][723]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.23-02.57.33:081][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.57.41:739][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.57.56:046][672]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles needed to have new flag set bUsedWithSplineMeshes !
+[2019.05.23-02.57.56:050][672]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2019.05.23-02.57.56:084][672]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.05.23-02.57.56:084][672]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.23-02.57.56:084][672]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.23-02.57.56:084][672]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.23-02.57.56:084][672]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.23-02.57.56:084][672]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.23-02.57.56:084][672]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Rock_Basalt.M_Rock_Basalt needed to have new flag set bUsedWithSplineMeshes !
+[2019.05.23-02.57.56:090][672]LogMaterial: Display: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2019.05.23-02.57.56:121][672]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall needed to have new flag set bUsedWithSplineMeshes !
+[2019.05.23-02.57.56:125][672]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2019.05.23-02.57.56:180][672]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.05.23-02.57.56:181][672]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.23-02.58.01:014][810]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.05.23-02.58.01:157][814]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.05.23-02.58.03:103][874]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.05.23-02.58.04:302][911]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.05.23-02.58.04:635][922]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.05.23-02.58.05:143][938]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.05.23-02.58.05:753][957]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.23-02.58.06:108][968]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.23-02.58.07:790][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.58.07:837][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fase2" FILE="../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Content/fase2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.23-02.58.08:254][ 15]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.23-02.58.08:330][ 15]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.58.08:931][ 15]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.23-02.58.09:245][ 15]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/fase25E5B73E248DA11F502559CA0CBB0D799.tmp' to '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Content/fase2.umap'
+[2019.05.23-02.58.09:361][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fase2_BuiltData" FILE="../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Content/fase2_BuiltData.uasset" SILENT=true
+[2019.05.23-02.58.09:601][ 15]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Saved/fase2_BuiltData3F5C11BE4C505A6D2D25389BBB0D9BED.tmp' to '../../../../../../Users/Avell/Documents/Github/firemanJoe/FiremanJoe/Content/fase2_BuiltData.uasset'
+[2019.05.23-02.58.11:101][ 56]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-02.58.11:146][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.58.11:146][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-02.58.11:146][ 56]PIE: New page: PIE session: fase2 (May 22, 2019, 8:58:11 PM)
+[2019.05.23-02.58.11:146][ 56]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase2
+[2019.05.23-02.58.11:239][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092562s)
+[2019.05.23-02.58.11:241][ 56]LogAIModule: Creating AISystem for world fase2
+[2019.05.23-02.58.11:241][ 56]LogPlayLevel: PIE: World Init took: (0.002018s)
+[2019.05.23-02.58.11:241][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase2.fase2 to /Game/UEDPIE_0_fase2.fase2 (0.095014s)
+[2019.05.23-02.58.11:338][ 56]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-02.58.11:373][ 56]LogInit: FAudioDevice initialized.
+[2019.05.23-02.58.11:412][ 56]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.23-02.58.11:418][ 56]LogWorld: Bringing World /Game/UEDPIE_0_fase2.fase2 up for play (max tick rate 60) at 2019.05.22-23.58.11
+[2019.05.23-02.58.11:419][ 56]LogWorld: Bringing up level for play took: 0.006046
+[2019.05.23-02.58.11:437][ 56]PIE: Play in editor start time for /Game/UEDPIE_0_fase2 -0.037
+[2019.05.23-02.58.11:438][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.58.21:466][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.58.21:466][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-02.58.21:509][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-02.58.21:509][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.58.21:537][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-02.58.21:592][650]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.05.23-02.58.23:664][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.58.32:736][310]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.58.50:864][366]Cmd: TRANSACTION UNDO
+[2019.05.23-02.58.50:864][366]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.58.50:932][366]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.58.51:151][373]Cmd: TRANSACTION UNDO
+[2019.05.23-02.58.51:151][373]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.58.51:203][373]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.58.51:444][381]Cmd: TRANSACTION UNDO
+[2019.05.23-02.58.51:444][381]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.58.51:501][381]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.58.51:721][390]Cmd: TRANSACTION UNDO
+[2019.05.23-02.58.51:721][390]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.58.51:781][390]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.58.52:035][403]Cmd: TRANSACTION UNDO
+[2019.05.23-02.58.52:035][403]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.58.52:092][403]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.58.52:306][414]Cmd: TRANSACTION UNDO
+[2019.05.23-02.58.52:306][414]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.58.52:356][414]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.58.52:555][424]Cmd: TRANSACTION UNDO
+[2019.05.23-02.58.52:555][424]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.58.52:613][424]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.58.52:840][435]Cmd: TRANSACTION UNDO
+[2019.05.23-02.58.52:840][435]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.58.52:891][435]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.59.03:913][ 67]Cmd: TRANSACTION UNDO
+[2019.05.23-02.59.03:913][ 67]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.59.03:984][ 67]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.59.05:987][184]Cmd: TRANSACTION UNDO
+[2019.05.23-02.59.05:987][184]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.59.10:551][442]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.59.19:514][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-02.59.22:589][163]Cmd: TRANSACTION UNDO
+[2019.05.23-02.59.22:589][163]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.59.22:679][163]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.59.24:624][277]Cmd: TRANSACTION UNDO
+[2019.05.23-02.59.24:624][277]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.59.26:641][393]Cmd: TRANSACTION UNDO
+[2019.05.23-02.59.26:641][393]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.59.28:439][496]Cmd: TRANSACTION UNDO
+[2019.05.23-02.59.28:439][496]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.59.29:288][542]Cmd: TRANSACTION UNDO
+[2019.05.23-02.59.29:288][542]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.05.23-02.59.29:342][542]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.59.29:723][564]Cmd: TRANSACTION UNDO
+[2019.05.23-02.59.29:723][564]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.05.23-02.59.29:776][564]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.59.31:040][639]Cmd: TRANSACTION UNDO
+[2019.05.23-02.59.31:041][639]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-02.59.31:521][663]Cmd: TRANSACTION UNDO
+[2019.05.23-02.59.31:521][663]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.05.23-02.59.31:587][663]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-02.59.53:786][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-02.59.53:853][930]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-02.59.53:867][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.59.53:867][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-02.59.53:867][930]PIE: New page: PIE session: fase2 (May 22, 2019, 8:59:53 PM)
+[2019.05.23-02.59.53:867][930]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase2
+[2019.05.23-02.59.53:904][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036486s)
+[2019.05.23-02.59.53:904][930]LogAIModule: Creating AISystem for world fase2
+[2019.05.23-02.59.53:905][930]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2019.05.23-02.59.53:905][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase2.fase2 to /Game/UEDPIE_0_fase2.fase2 (0.037374s)
+[2019.05.23-02.59.53:939][930]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-02.59.53:958][930]LogInit: FAudioDevice initialized.
+[2019.05.23-02.59.53:995][930]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.23-02.59.54:008][930]LogWorld: Bringing World /Game/UEDPIE_0_fase2.fase2 up for play (max tick rate 60) at 2019.05.22-23.59.54
+[2019.05.23-02.59.54:008][930]LogWorld: Bringing up level for play took: 0.010420
+[2019.05.23-02.59.54:027][930]PIE: Play in editor start time for /Game/UEDPIE_0_fase2 0.553
+[2019.05.23-02.59.54:028][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.59.58:209][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.59.58:210][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-02.59.58:247][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-02.59.58:248][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-02.59.58:291][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-02.59.58:314][178]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.05.23-03.00.03:166][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-03.00.03:549][465]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-03.00.03:562][465]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-03.00.03:562][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-03.00.03:563][465]PIE: New page: PIE session: fase2 (May 22, 2019, 9:00:03 PM)
+[2019.05.23-03.00.03:563][465]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase2
+[2019.05.23-03.00.03:599][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035822s)
+[2019.05.23-03.00.03:599][465]LogAIModule: Creating AISystem for world fase2
+[2019.05.23-03.00.03:600][465]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2019.05.23-03.00.03:600][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase2.fase2 to /Game/UEDPIE_0_fase2.fase2 (0.036618s)
+[2019.05.23-03.00.03:632][465]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-03.00.03:650][465]LogInit: FAudioDevice initialized.
+[2019.05.23-03.00.03:686][465]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.23-03.00.03:696][465]LogWorld: Bringing World /Game/UEDPIE_0_fase2.fase2 up for play (max tick rate 60) at 2019.05.23-00.00.03
+[2019.05.23-03.00.03:697][465]LogWorld: Bringing up level for play took: 0.008554
+[2019.05.23-03.00.03:713][465]PIE: Play in editor start time for /Game/UEDPIE_0_fase2 0.239
+[2019.05.23-03.00.03:714][465]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-03.00.12:042][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-03.00.12:042][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-03.00.12:083][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-03.00.12:083][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-03.00.12:111][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-03.00.12:164][963]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.05.23-03.00.14:966][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-03.00.27:795][868]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.05.23-03.00.33:969][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-03.00.34:052][214]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-03.00.34:066][214]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-03.00.34:067][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-03.00.34:067][214]PIE: New page: PIE session: fase2 (May 22, 2019, 9:00:34 PM)
+[2019.05.23-03.00.34:067][214]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase2
+[2019.05.23-03.00.34:102][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035072s)
+[2019.05.23-03.00.34:102][214]LogAIModule: Creating AISystem for world fase2
+[2019.05.23-03.00.34:103][214]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2019.05.23-03.00.34:103][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase2.fase2 to /Game/UEDPIE_0_fase2.fase2 (0.035800s)
+[2019.05.23-03.00.34:137][214]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-03.00.34:155][214]LogInit: FAudioDevice initialized.
+[2019.05.23-03.00.34:189][214]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.23-03.00.34:199][214]LogWorld: Bringing World /Game/UEDPIE_0_fase2.fase2 up for play (max tick rate 60) at 2019.05.23-00.00.34
+[2019.05.23-03.00.34:200][214]LogWorld: Bringing up level for play took: 0.009079
+[2019.05.23-03.00.34:221][214]PIE: Play in editor start time for /Game/UEDPIE_0_fase2 0.746
+[2019.05.23-03.00.34:222][214]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-03.00.39:622][530]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-03.00.39:622][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-03.00.39:664][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-03.00.39:664][530]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase2.fase2:PersistentLevel' has LevelScriptBlueprint '/Game/fase2.fase2:PersistentLevel.fase2' with GeneratedClass '/Game/fase2.fase2_C' with ClassGeneratedBy '/Game/fase2.fase2:PersistentLevel.fase2'
+[2019.05.23-03.00.39:698][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-03.00.39:722][531]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.05.23-03.00.44:455][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-03.00.48:016][ 11]Cmd: TRANSACTION UNDO
+[2019.05.23-03.00.48:016][ 11]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.05.23-03.00.48:080][ 11]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 256X256)
+[2019.05.23-03.00.56:702][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
