@@ -1883,3 +1883,1448 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.24-16.35.32:016][149]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/Casa13352EB454B03B69DB0D6AF923ADB3A74.tmp' to '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/Construcoes/Casa1.uasset'
 [2019.05.24-16.35.32:049][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Construcoes/Casa2" FILE="../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/Construcoes/Casa2.uasset" SILENT=true
 [2019.05.24-16.35.32:068][149]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/Casa270670D17425024B743F24FABA194ABB1.tmp' to '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/Construcoes/Casa2.uasset'
+[2019.05.24-16.41.01:522][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-16.41.02:782][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-16.41.04:459][831]LogSlate: Window 'New Level' being destroyed
+[2019.05.24-16.41.04:507][831]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.24-16.41.04:515][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-16.41.04:546][831]LightingResults: New page: Lighting Build
+[2019.05.24-16.41.04:546][831]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.05.24-16.41.04:548][831]MapCheck: New page: Map Check
+[2019.05.24-16.41.04:548][831]LightingResults: New page: Lighting Build
+[2019.05.24-16.41.04:709][831]LogAIModule: Creating AISystem for world Untitled_2
+[2019.05.24-16.41.04:718][831]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.24-16.41.04:759][831]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.24-16.41.04:759][831]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.223ms to complete.
+[2019.05.24-16.41.04:760][831]LogFileHelpers: Loading map 'Template_Default' took 0.290
+[2019.05.24-16.41.11:939][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-16.41.17:403][257]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.24-16.41.17:412][257]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.05.24-16.41.17:559][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fase3" FILE="../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/fase3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.24-16.41.17:672][257]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/fase34C5266464F9E82BE018788A65F0000CF.tmp' to '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/fase3.umap'
+[2019.05.24-16.41.17:701][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fase3_BuiltData" FILE="../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/fase3_BuiltData.uasset" SILENT=true
+[2019.05.24-16.41.17:724][257]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/fase3_BuiltDataA03685924E150F53C53751A62389A7FF.tmp' to '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/fase3_BuiltData.uasset'
+[2019.05.24-16.41.17:753][257]LogFileHelpers: Saving map 'fase3' took 0.284
+[2019.05.24-16.41.19:741][374]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-16.41.19:776][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-16.41.21:096][438]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-16.41.28:248][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.14.25:331][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.24-18.14.26:067][416]Cmd: DELETE
+[2019.05.24-18.14.26:067][416]Cmd: ACTOR DELETE
+[2019.05.24-18.14.26:069][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.24-18.14.26:096][416]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.05.24-18.14.27:641][508]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-18.14.29:680][618]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-18.14.32:964][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.14.41:351][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.14.46:739][553]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.05.24-18.14.48:177][622]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.24-18.14.48:753][654]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.05.24-18.14.51:957][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.14.52:036][818]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2019.05.24-18.15.05:079][558]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-18.15.11:659][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.15.23:385][586]Cmd: TRANSACTION UNDO
+[2019.05.24-18.15.23:385][586]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.15.25:357][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.15.25:511][686]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.05.24-18.15.29:921][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.15.30:005][910]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-18.15.30:024][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.15.30:024][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-18.15.30:024][910]PIE: New page: PIE session: fase3 (May 24, 2019, 12:15:30 PM)
+[2019.05.24-18.15.30:024][910]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase3
+[2019.05.24-18.15.30:047][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021954s)
+[2019.05.24-18.15.30:048][910]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-18.15.30:048][910]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2019.05.24-18.15.30:048][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase3.fase3 to /Game/UEDPIE_0_fase3.fase3 (0.023185s)
+[2019.05.24-18.15.30:080][910]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-18.15.30:102][910]LogInit: FAudioDevice initialized.
+[2019.05.24-18.15.30:141][910]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.24-18.15.30:147][910]LogWorld: Bringing World /Game/UEDPIE_0_fase3.fase3 up for play (max tick rate 60) at 2019.05.24-15.15.30
+[2019.05.24-18.15.30:148][910]LogWorld: Bringing up level for play took: 0.005275
+[2019.05.24-18.15.30:163][910]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.24-18.15.30:171][910]PIE: Play in editor start time for /Game/UEDPIE_0_fase3 -0.522
+[2019.05.24-18.15.30:171][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.15.31:467][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.15.31:468][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.15.31:506][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-18.15.31:506][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.15.31:532][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.15.31:580][978]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.05.24-18.15.36:861][266]Cmd: SELECT NONE
+[2019.05.24-18.15.38:640][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.15.39:743][429]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.05.24-18.15.41:184][508]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.24-18.15.41:397][520]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.24-18.15.41:907][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.15.42:249][562]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-18.15.42:264][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.15.42:264][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-18.15.42:264][562]PIE: New page: PIE session: fase3 (May 24, 2019, 12:15:42 PM)
+[2019.05.24-18.15.42:264][562]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase3
+[2019.05.24-18.15.42:290][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025526s)
+[2019.05.24-18.15.42:291][562]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-18.15.42:291][562]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2019.05.24-18.15.42:291][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase3.fase3 to /Game/UEDPIE_0_fase3.fase3 (0.026251s)
+[2019.05.24-18.15.42:322][562]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-18.15.42:340][562]LogInit: FAudioDevice initialized.
+[2019.05.24-18.15.42:379][562]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.24-18.15.42:387][562]LogWorld: Bringing World /Game/UEDPIE_0_fase3.fase3 up for play (max tick rate 60) at 2019.05.24-15.15.42
+[2019.05.24-18.15.42:388][562]LogWorld: Bringing up level for play took: 0.006260
+[2019.05.24-18.15.42:407][562]PIE: Play in editor start time for /Game/UEDPIE_0_fase3 -0.284
+[2019.05.24-18.15.42:408][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.15.54:751][296]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.15.54:752][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.15.54:798][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-18.15.54:798][296]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.15.54:821][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.15.54:872][297]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.05.24-18.15.55:102][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.16.00:682][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.16.07:460][977]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.05.24-18.16.12:207][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.16.45:011][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.16.45:068][144]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-18.16.45:083][144]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.16.45:083][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-18.16.45:083][144]PIE: New page: PIE session: fase3 (May 24, 2019, 12:16:45 PM)
+[2019.05.24-18.16.45:083][144]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase3
+[2019.05.24-18.16.45:106][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022068s)
+[2019.05.24-18.16.45:106][144]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-18.16.45:106][144]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2019.05.24-18.16.45:106][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase3.fase3 to /Game/UEDPIE_0_fase3.fase3 (0.022746s)
+[2019.05.24-18.16.45:136][144]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-18.16.45:156][144]LogInit: FAudioDevice initialized.
+[2019.05.24-18.16.45:186][144]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.24-18.16.45:193][144]LogWorld: Bringing World /Game/UEDPIE_0_fase3.fase3 up for play (max tick rate 60) at 2019.05.24-15.16.45
+[2019.05.24-18.16.45:193][144]LogWorld: Bringing up level for play took: 0.005737
+[2019.05.24-18.16.45:213][144]PIE: Play in editor start time for /Game/UEDPIE_0_fase3 0.521
+[2019.05.24-18.16.45:213][144]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.16.51:109][493]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.16.51:110][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.16.51:149][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-18.16.51:149][493]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.16.51:179][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.16.51:226][494]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.05.24-18.16.54:520][653]Cmd: EDIT COPY
+[2019.05.24-18.16.59:033][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.17.06:945][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.17.06:995][369]Cmd: MODE GRID=1
+[2019.05.24-18.17.17:000][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.17.17:093][947]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-18.17.17:110][947]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.17.17:110][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-18.17.17:110][947]PIE: New page: PIE session: fase3 (May 24, 2019, 12:17:17 PM)
+[2019.05.24-18.17.17:110][947]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase3
+[2019.05.24-18.17.17:138][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027504s)
+[2019.05.24-18.17.17:139][947]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-18.17.17:139][947]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2019.05.24-18.17.17:139][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase3.fase3 to /Game/UEDPIE_0_fase3.fase3 (0.028659s)
+[2019.05.24-18.17.17:173][947]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-18.17.17:196][947]LogInit: FAudioDevice initialized.
+[2019.05.24-18.17.17:232][947]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.24-18.17.17:239][947]LogWorld: Bringing World /Game/UEDPIE_0_fase3.fase3 up for play (max tick rate 60) at 2019.05.24-15.17.17
+[2019.05.24-18.17.17:240][947]LogWorld: Bringing up level for play took: 0.005242
+[2019.05.24-18.17.17:259][947]PIE: Play in editor start time for /Game/UEDPIE_0_fase3 0.567
+[2019.05.24-18.17.17:260][947]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.17.19:802][ 94]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.17.19:802][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.17.19:842][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-18.17.19:842][ 94]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.17.19:869][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.17.19:913][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.05.24-18.17.36:649][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.17.36:740][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-18.17.36:756][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.17.36:757][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-18.17.36:757][ 42]PIE: New page: PIE session: fase3 (May 24, 2019, 12:17:36 PM)
+[2019.05.24-18.17.36:757][ 42]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase3
+[2019.05.24-18.17.36:779][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022169s)
+[2019.05.24-18.17.36:780][ 42]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-18.17.36:780][ 42]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2019.05.24-18.17.36:780][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase3.fase3 to /Game/UEDPIE_0_fase3.fase3 (0.022845s)
+[2019.05.24-18.17.36:810][ 42]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-18.17.36:829][ 42]LogInit: FAudioDevice initialized.
+[2019.05.24-18.17.36:863][ 42]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.24-18.17.36:867][ 42]LogWorld: Bringing World /Game/UEDPIE_0_fase3.fase3 up for play (max tick rate 60) at 2019.05.24-15.17.36
+[2019.05.24-18.17.36:867][ 42]LogWorld: Bringing up level for play took: 0.002234
+[2019.05.24-18.17.36:884][ 42]PIE: Play in editor start time for /Game/UEDPIE_0_fase3 0.192
+[2019.05.24-18.17.36:884][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.17.44:564][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.17.44:564][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.17.44:607][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-18.17.44:607][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.17.44:634][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.17.44:679][498]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.05.24-18.17.48:098][688]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.24-18.18.05:679][683]Cmd: EDIT COPY
+[2019.05.24-18.18.05:687][683]Cmd: EDIT CUT
+[2019.05.24-18.18.05:705][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-18.18.05:728][683]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.05.24-18.18.07:569][791]Cmd: TRANSACTION UNDO
+[2019.05.24-18.18.07:569][791]LogEditorTransaction: Undo Cut
+[2019.05.24-18.18.07:923][793]Cmd: TRANSACTION UNDO
+[2019.05.24-18.18.07:923][793]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.18.08:265][795]Cmd: TRANSACTION UNDO
+[2019.05.24-18.18.08:266][795]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.24-18.18.23:157][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.18.23:466][592]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-18.18.23:483][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.18.23:483][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-18.18.23:483][592]PIE: New page: PIE session: fase3 (May 24, 2019, 12:18:23 PM)
+[2019.05.24-18.18.23:483][592]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase3
+[2019.05.24-18.18.23:517][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033455s)
+[2019.05.24-18.18.23:517][592]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-18.18.23:518][592]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2019.05.24-18.18.23:518][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase3.fase3 to /Game/UEDPIE_0_fase3.fase3 (0.034250s)
+[2019.05.24-18.18.23:551][592]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-18.18.23:570][592]LogInit: FAudioDevice initialized.
+[2019.05.24-18.18.23:608][592]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.24-18.18.23:614][592]LogWorld: Bringing World /Game/UEDPIE_0_fase3.fase3 up for play (max tick rate 60) at 2019.05.24-15.18.23
+[2019.05.24-18.18.23:614][592]LogWorld: Bringing up level for play took: 0.004649
+[2019.05.24-18.18.23:632][592]PIE: Play in editor start time for /Game/UEDPIE_0_fase3 0.94
+[2019.05.24-18.18.23:633][592]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.18.29:895][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.18.29:895][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.18.29:933][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-18.18.29:933][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.18.29:965][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.18.30:009][963]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.05.24-18.18.33:268][120]Cmd: EDIT COPY
+[2019.05.24-18.18.33:499][132]Cmd: EDIT PASTE
+[2019.05.24-18.18.36:665][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.18.36:719][305]Cmd: MODE GRID=0
+[2019.05.24-18.18.44:410][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.19.23:133][971]Cmd: EDIT COPY
+[2019.05.24-18.19.26:475][156]Cmd: TRANSACTION UNDO
+[2019.05.24-18.19.26:476][156]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.24-18.19.27:166][174]Cmd: TRANSACTION UNDO
+[2019.05.24-18.19.27:166][174]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.19.27:599][180]Cmd: TRANSACTION UNDO
+[2019.05.24-18.19.27:599][180]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.19.43:174][  0]Cmd: TRANSACTION UNDO
+[2019.05.24-18.19.43:174][  0]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.19.45:328][ 90]Cmd: DELETE
+[2019.05.24-18.19.45:328][ 90]Cmd: ACTOR DELETE
+[2019.05.24-18.19.45:355][ 90]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-18.19.45:380][ 90]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2019.05.24-18.19.47:256][190]Cmd: DELETE
+[2019.05.24-18.19.47:256][190]Cmd: ACTOR DELETE
+[2019.05.24-18.19.47:270][190]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-18.19.47:296][190]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.05.24-18.19.55:904][649]Cmd: TRANSACTION UNDO
+[2019.05.24-18.19.55:904][649]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.19.57:190][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.19.57:757][723]Cmd: MODE GRID=1
+[2019.05.24-18.20.07:674][265]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush6)
+[2019.05.24-18.20.21:091][ 19]Cmd: TRANSACTION UNDO
+[2019.05.24-18.20.21:091][ 19]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.20.21:747][ 26]Cmd: TRANSACTION UNDO
+[2019.05.24-18.20.21:747][ 26]LogEditorTransaction: Undo Rotate Actors
+[2019.05.24-18.20.23:693][113]Cmd: EDIT COPY
+[2019.05.24-18.20.23:913][125]Cmd: EDIT PASTE
+[2019.05.24-18.20.36:143][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.20.36:217][805]Cmd: MODE GRID=0
+[2019.05.24-18.20.41:590][109]Cmd: TRANSACTION UNDO
+[2019.05.24-18.20.41:590][109]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.20.47:107][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.21.10:261][690]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.05.24-18.21.10:300][690]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.21.24:679][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.21.24:773][440]Cmd: MODE GRID=1
+[2019.05.24-18.21.28:142][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.21.39:936][258]Cmd: TRANSACTION UNDO
+[2019.05.24-18.21.39:936][258]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.21.41:793][334]Cmd: TRANSACTION UNDO
+[2019.05.24-18.21.41:793][334]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.21.42:573][358]Cmd: TRANSACTION UNDO
+[2019.05.24-18.21.42:573][358]LogEditorTransaction: Undo Edit Y
+[2019.05.24-18.21.45:606][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.21.54:188][976]Cmd: TRANSACTION UNDO
+[2019.05.24-18.21.54:189][976]LogEditorTransaction: Undo Edit Y
+[2019.05.24-18.22.09:727][825]Cmd: TRANSACTION UNDO
+[2019.05.24-18.22.09:727][825]LogEditorTransaction: Undo Edit X
+[2019.05.24-18.22.26:867][749]Cmd: TRANSACTION UNDO
+[2019.05.24-18.22.26:867][749]LogEditorTransaction: Undo Edit Y
+[2019.05.24-18.22.52:819][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.22.52:898][126]Cmd: MODE GRID=0
+[2019.05.24-18.23.38:176][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.23.39:154][565]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.05.24-18.23.47:455][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.24.09:040][200]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-18.24.21:956][933]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.24.26:411][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.24.27:023][210]LogEditorViewport: Clicking Background
+[2019.05.24-18.24.28:892][319]LogEditorViewport: Clicking Background
+[2019.05.24-18.24.29:546][358]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.24.38:655][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.24.40:646][987]Cmd: TRANSACTION UNDO
+[2019.05.24-18.24.40:646][987]LogEditorTransaction: Undo Scale Actors
+[2019.05.24-18.25.02:432][208]Cmd: TRANSACTION UNDO
+[2019.05.24-18.25.02:432][208]LogEditorTransaction: Undo Scale Actors
+[2019.05.24-18.25.04:069][276]Cmd: TRANSACTION UNDO
+[2019.05.24-18.25.04:069][276]LogEditorTransaction: Undo Scale Actors
+[2019.05.24-18.25.12:805][734]Cmd: TRANSACTION UNDO
+[2019.05.24-18.25.12:805][734]LogEditorTransaction: Undo Scale Actors
+[2019.05.24-18.25.13:580][752]Cmd: TRANSACTION UNDO
+[2019.05.24-18.25.13:580][752]LogEditorTransaction: Undo Scale Actors
+[2019.05.24-18.25.14:325][774]Cmd: TRANSACTION UNDO
+[2019.05.24-18.25.14:325][774]LogEditorTransaction: Undo Scale Actors
+[2019.05.24-18.25.15:752][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.25.18:303][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.25.18:492][831]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.05.24-18.25.18:738][831]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/fase3_Auto38842CAAB445320284552EC989A696BD9.tmp' to '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/Autosaves/Game/fase3_Auto3.umap'
+[2019.05.24-18.25.18:748][831]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/fase3' took 0.386
+[2019.05.24-18.25.18:749][831]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.386
+[2019.05.24-18.25.23:185][ 81]LogEditorViewport: Clicking Background
+[2019.05.24-18.25.31:945][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.25.42:354][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.26.18:097][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.26.21:045][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.26.37:038][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.26.49:632][823]LogEditorViewport: Clicking Background
+[2019.05.24-18.26.50:520][875]LogEditorViewport: Clicking Background
+[2019.05.24-18.26.50:990][903]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.26.53:416][ 34]LogEditorViewport: Clicking Background
+[2019.05.24-18.26.54:191][ 79]LogEditorViewport: Clicking Background
+[2019.05.24-18.26.54:661][107]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2019.05.24-18.26.56:714][222]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.27.02:784][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.27.03:730][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.27.03:995][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.27.04:557][650]LogEditorViewport: Clicking Background
+[2019.05.24-18.27.09:415][939]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2019.05.24-18.27.10:817][ 16]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.27.17:586][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.27.32:590][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.28.41:403][129]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2019.05.24-18.28.42:129][164]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2019.05.24-18.28.44:561][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.28.45:589][357]LogEditorViewport: Clicking Background
+[2019.05.24-18.28.46:879][433]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2019.05.24-18.28.48:389][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.28.49:157][557]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2019.05.24-18.28.49:982][598]LogEditorViewport: Clicking Background
+[2019.05.24-18.29.10:720][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.29.23:963][582]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2019.05.24-18.29.30:327][867]LogEditorViewport: Clicking Background
+[2019.05.24-18.29.37:384][285]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.29.43:757][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.29.57:236][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.30.13:660][360]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-18.30.27:323][104]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.30.30:913][299]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.30.37:528][671]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.30.49:334][343]Cmd: TRANSACTION UNDO
+[2019.05.24-18.30.49:334][343]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.30.53:972][565]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.31.01:921][989]LogEditorViewport: Clicking Background
+[2019.05.24-18.31.02:300][ 10]LogEditorViewport: Clicking Background
+[2019.05.24-18.31.03:129][ 59]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2019.05.24-18.31.04:838][146]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2019.05.24-18.31.09:966][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.31.10:045][430]Cmd: MODE GRID=1
+[2019.05.24-18.31.13:095][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.31.31:436][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.32.17:948][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.32.41:974][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.32.47:232][887]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.32.48:620][960]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2019.05.24-18.32.49:559][  7]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.32.52:440][154]Cmd: TRANSACTION UNDO
+[2019.05.24-18.32.52:440][154]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.33.00:270][570]Cmd: TRANSACTION UNDO
+[2019.05.24-18.33.00:270][570]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.24-18.33.02:672][674]Cmd: TRANSACTION UNDO
+[2019.05.24-18.33.02:672][674]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.24-18.33.03:664][709]Cmd: TRANSACTION UNDO
+[2019.05.24-18.33.03:664][709]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.24-18.33.04:475][734]Cmd: TRANSACTION UNDO
+[2019.05.24-18.33.04:475][734]LogEditorTransaction: Undo Set Location
+[2019.05.24-18.33.05:219][754]Cmd: TRANSACTION UNDO
+[2019.05.24-18.33.05:219][754]LogEditorTransaction: Undo Set Location
+[2019.05.24-18.33.06:015][778]Cmd: TRANSACTION UNDO
+[2019.05.24-18.33.06:015][778]LogEditorTransaction: Undo Set Location
+[2019.05.24-18.33.07:334][828]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.33.21:708][579]Cmd: TRANSACTION UNDO
+[2019.05.24-18.33.21:708][579]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.33.22:889][616]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2019.05.24-18.33.25:681][755]Cmd: POLY SELECT ADJACENT SLANTS
+[2019.05.24-18.33.37:548][425]Cmd: DELETE
+[2019.05.24-18.33.37:548][425]Cmd: ACTOR DELETE
+[2019.05.24-18.33.37:568][425]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-18.33.37:568][425]LogEditorActor: Deleted Actor: Landscape
+[2019.05.24-18.33.37:620][425]LogEditorActor: Deleted 2 Actors (0.072 secs)
+[2019.05.24-18.33.39:195][515]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2019.05.24-18.33.57:859][536]Cmd: EDIT COPY
+[2019.05.24-18.33.58:513][573]Cmd: EDIT PASTE
+[2019.05.24-18.34.08:514][111]Cmd: DELETE
+[2019.05.24-18.34.08:514][111]Cmd: ACTOR DELETE
+[2019.05.24-18.34.08:527][111]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-18.34.08:553][111]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.05.24-18.34.12:274][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.34.27:970][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.34.44:496][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.35.29:550][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.36.24:178][647]Cmd: TRANSACTION UNDO
+[2019.05.24-18.36.24:178][647]LogEditorTransaction: Undo Set Location
+[2019.05.24-18.36.24:531][648]Cmd: TRANSACTION UNDO
+[2019.05.24-18.36.24:531][648]LogEditorTransaction: Undo Set Location
+[2019.05.24-18.37.26:787][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.38.00:368][978]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.38.02:275][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.38.02:312][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fase3" FILE="../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/fase3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.24-18.38.02:583][ 66]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/fase39C095D594B3F632AC6CCD9950C92BBA8.tmp' to '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/fase3.umap'
+[2019.05.24-18.38.02:634][ 66]LogFileHelpers: Saving map 'fase3' took 0.323
+[2019.05.24-18.38.04:789][182]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-18.38.11:892][541]Cmd: EDIT COPY
+[2019.05.24-18.38.13:156][609]Cmd: EDIT PASTE
+[2019.05.24-18.38.15:961][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.38.30:181][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.38.48:118][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.38.57:088][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.39.07:189][433]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.05.24-18.39.07:937][463]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.24-18.39.08:869][502]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.24-18.39.10:561][574]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.24-18.39.11:444][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.39.11:485][619]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-18.39.11:502][619]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.39.11:502][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-18.39.11:502][619]PIE: New page: PIE session: fase3 (May 24, 2019, 12:39:11 PM)
+[2019.05.24-18.39.11:502][619]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase3
+[2019.05.24-18.39.11:521][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018703s)
+[2019.05.24-18.39.11:521][619]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-18.39.11:522][619]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2019.05.24-18.39.11:522][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase3.fase3 to /Game/UEDPIE_0_fase3.fase3 (0.019496s)
+[2019.05.24-18.39.11:561][619]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-18.39.11:581][619]LogInit: FAudioDevice initialized.
+[2019.05.24-18.39.11:611][619]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.24-18.39.11:613][619]LogWorld: Bringing World /Game/UEDPIE_0_fase3.fase3 up for play (max tick rate 60) at 2019.05.24-15.39.11
+[2019.05.24-18.39.11:613][619]LogWorld: Bringing up level for play took: 0.000659
+[2019.05.24-18.39.11:632][619]PIE: Play in editor start time for /Game/UEDPIE_0_fase3 0.94
+[2019.05.24-18.39.11:632][619]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.39.20:008][110]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.39.20:008][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.39.20:051][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-18.39.20:051][110]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.39.20:093][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.39.20:151][111]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.05.24-18.39.30:859][725]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.39.41:482][303]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2019.05.24-18.39.48:372][676]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.39.53:715][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.40.07:169][719]Cmd: TRANSACTION UNDO
+[2019.05.24-18.40.07:169][719]LogEditorTransaction: Undo Set Location
+[2019.05.24-18.40.07:595][720]Cmd: TRANSACTION UNDO
+[2019.05.24-18.40.07:595][720]LogEditorTransaction: Undo Set Location
+[2019.05.24-18.40.20:375][397]Cmd: TRANSACTION UNDO
+[2019.05.24-18.40.20:375][397]LogEditorTransaction: Undo Set Location
+[2019.05.24-18.40.48:883][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.40.48:967][947]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-18.40.48:982][947]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.40.48:982][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-18.40.48:982][947]PIE: New page: PIE session: fase3 (May 24, 2019, 12:40:48 PM)
+[2019.05.24-18.40.48:982][947]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase3
+[2019.05.24-18.40.49:000][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017900s)
+[2019.05.24-18.40.49:000][947]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-18.40.49:001][947]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2019.05.24-18.40.49:001][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase3.fase3 to /Game/UEDPIE_0_fase3.fase3 (0.018692s)
+[2019.05.24-18.40.49:032][947]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-18.40.49:051][947]LogInit: FAudioDevice initialized.
+[2019.05.24-18.40.49:083][947]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.24-18.40.49:084][947]LogWorld: Bringing World /Game/UEDPIE_0_fase3.fase3 up for play (max tick rate 60) at 2019.05.24-15.40.49
+[2019.05.24-18.40.49:084][947]LogWorld: Bringing up level for play took: 0.000641
+[2019.05.24-18.40.49:098][947]PIE: Play in editor start time for /Game/UEDPIE_0_fase3 0.407
+[2019.05.24-18.40.49:099][947]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.40.57:448][437]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.40.57:448][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.40.57:490][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-18.40.57:490][437]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.40.57:516][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.40.57:574][438]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.05.24-18.40.58:781][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.40.58:848][509]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-18.40.58:864][509]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.40.58:864][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-18.40.58:864][509]PIE: New page: PIE session: fase3 (May 24, 2019, 12:40:58 PM)
+[2019.05.24-18.40.58:864][509]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase3
+[2019.05.24-18.40.58:882][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018571s)
+[2019.05.24-18.40.58:882][509]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-18.40.58:882][509]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2019.05.24-18.40.58:882][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase3.fase3 to /Game/UEDPIE_0_fase3.fase3 (0.019287s)
+[2019.05.24-18.40.58:914][509]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-18.40.58:934][509]LogInit: FAudioDevice initialized.
+[2019.05.24-18.40.58:968][509]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.24-18.40.58:970][509]LogWorld: Bringing World /Game/UEDPIE_0_fase3.fase3 up for play (max tick rate 60) at 2019.05.24-15.40.58
+[2019.05.24-18.40.58:971][509]LogWorld: Bringing up level for play took: 0.001053
+[2019.05.24-18.40.58:988][509]PIE: Play in editor start time for /Game/UEDPIE_0_fase3 0.296
+[2019.05.24-18.40.58:989][509]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.41.10:787][207]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.41.10:788][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.41.10:830][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-18.41.10:830][207]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-18.41.10:853][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-18.41.10:912][208]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.05.24-18.41.20:725][706]Cmd: TRANSACTION UNDO
+[2019.05.24-18.41.20:725][706]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.41.21:200][710]Cmd: TRANSACTION UNDO
+[2019.05.24-18.41.21:200][710]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.41.21:764][716]Cmd: TRANSACTION UNDO
+[2019.05.24-18.41.21:764][716]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.24-18.41.22:834][760]Cmd: TRANSACTION REDO
+[2019.05.24-18.41.22:834][760]LogEditorTransaction: Redo Select Brush Surface
+[2019.05.24-18.41.24:651][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.41.32:554][218]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-18.41.32:771][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.41.37:052][425]Cmd: TRANSACTION UNDO
+[2019.05.24-18.41.37:053][425]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.41.37:507][427]Cmd: TRANSACTION UNDO
+[2019.05.24-18.41.37:507][427]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.24-18.41.38:210][435]Cmd: TRANSACTION UNDO
+[2019.05.24-18.41.38:210][435]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.41.47:671][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.41.53:601][181]Cmd: TRANSACTION UNDO
+[2019.05.24-18.41.53:601][181]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.42.12:646][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.42.34:075][248]Cmd: TRANSACTION UNDO
+[2019.05.24-18.42.34:075][248]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.42.38:601][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.42.38:671][458]Cmd: MODE GRID=0
+[2019.05.24-18.42.49:966][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.42.55:626][310]Cmd: TRANSACTION UNDO
+[2019.05.24-18.42.55:626][310]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.42.57:323][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.42.57:391][373]Cmd: MODE GRID=1
+[2019.05.24-18.43.02:181][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.43.08:692][920]Cmd: TRANSACTION UNDO
+[2019.05.24-18.43.08:692][920]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.43.09:103][921]Cmd: TRANSACTION UNDO
+[2019.05.24-18.43.09:103][921]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.43.09:627][924]Cmd: TRANSACTION UNDO
+[2019.05.24-18.43.09:628][924]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.43.10:923][968]Cmd: TRANSACTION REDO
+[2019.05.24-18.43.10:923][968]LogEditorTransaction: Redo Move Actors
+[2019.05.24-18.43.11:564][980]Cmd: TRANSACTION REDO
+[2019.05.24-18.43.11:564][980]LogEditorTransaction: Redo Move Actors
+[2019.05.24-18.43.17:112][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.44.03:108][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.44.23:305][696]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-18.44.43:067][588]Cmd: TRANSACTION UNDO
+[2019.05.24-18.44.43:067][588]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.44.48:252][783]Cmd: TRANSACTION UNDO
+[2019.05.24-18.44.48:252][783]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.45.02:568][477]Cmd: TRANSACTION UNDO
+[2019.05.24-18.45.02:568][477]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.45.04:162][530]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-18.45.04:701][550]Cmd: TRANSACTION UNDO
+[2019.05.24-18.45.04:701][550]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.24-18.45.19:823][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.45.32:657][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.45.32:738][935]Cmd: MODE GRID=0
+[2019.05.24-18.45.40:648][311]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-18.45.49:004][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.45.49:113][714]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.45.49:466][732]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.45.49:647][741]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.45.49:839][751]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.45.49:990][759]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.45.50:166][768]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.45.50:337][777]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.45.52:035][862]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2019.05.24-18.45.52:229][871]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2019.05.24-18.45.52:402][880]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2019.05.24-18.45.52:575][889]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2019.05.24-18.45.52:825][902]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2019.05.24-18.45.52:997][911]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2019.05.24-18.45.55:053][ 19]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-18.46.03:206][396]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-18.46.08:861][649]Cmd: DELETE
+[2019.05.24-18.46.08:861][649]Cmd: ACTOR DELETE
+[2019.05.24-18.46.08:884][649]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-18.46.08:920][649]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2019.05.24-18.46.10:820][751]Cmd: TRANSACTION UNDO
+[2019.05.24-18.46.10:820][751]LogEditorTransaction: Undo Delete Actors
+[2019.05.24-18.46.10:841][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.24-18.46.10:841][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.24-18.46.10:841][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 20
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 21
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 22
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 23
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 24
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 25
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 26
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 27
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 28
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 29
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 30
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 31
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 32
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 33
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 34
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 35
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_772, Buffer: 0, Buffer Size: 0, Element: 36
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase3.fase3:PersistentLevel.ModelComponent_772' invalid (1012 verts, 0 indices).
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Attempt to build physics data for /Game/fase3.fase3:PersistentLevel.ModelComponent_772.BodySetup_0 when we are unable to.
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.24-18.46.10:842][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 20
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 21
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 22
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 23
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 24
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_773, Buffer: 0, Buffer Size: 0, Element: 25
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase3.fase3:PersistentLevel.ModelComponent_773' invalid (1012 verts, 0 indices).
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Attempt to build physics data for /Game/fase3.fase3:PersistentLevel.ModelComponent_773.BodySetup_0 when we are unable to.
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 20
+[2019.05.24-18.46.10:843][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 21
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 22
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 23
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 24
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_774, Buffer: 0, Buffer Size: 0, Element: 25
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase3.fase3:PersistentLevel.ModelComponent_774' invalid (1012 verts, 0 indices).
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Attempt to build physics data for /Game/fase3.fase3:PersistentLevel.ModelComponent_774.BodySetup_0 when we are unable to.
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/fase3.fase3:PersistentLevel.ModelComponent_775, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/fase3.fase3:PersistentLevel.ModelComponent_775' invalid (1012 verts, 0 indices).
+[2019.05.24-18.46.10:844][751]LogPhysics: Warning: Attempt to build physics data for /Game/fase3.fase3:PersistentLevel.ModelComponent_775.BodySetup_0 when we are unable to.
+[2019.05.24-18.46.13:148][830]Cmd: DELETE
+[2019.05.24-18.46.13:148][830]Cmd: ACTOR DELETE
+[2019.05.24-18.46.13:164][830]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-18.46.13:199][830]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.05.24-18.48.08:128][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.48.12:569][227]Cmd: TRANSACTION UNDO
+[2019.05.24-18.48.12:569][227]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.48.13:814][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.48.13:918][265]Cmd: MODE GRID=1
+[2019.05.24-18.48.17:164][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.48.23:976][725]Cmd: TRANSACTION UNDO
+[2019.05.24-18.48.23:976][725]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.48.29:954][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.48.52:238][163]Cmd: TRANSACTION UNDO
+[2019.05.24-18.48.52:238][163]LogEditorTransaction: Undo Edit Y
+[2019.05.24-18.48.54:779][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.49.06:276][882]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush35)
+[2019.05.24-18.49.14:355][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.49.19:123][546]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush37)
+[2019.05.24-18.49.20:297][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.49.57:115][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.50.02:292][716]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.50.02:596][716]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/fase3_Auto4FA085FA1483D8D6D8FA22C8A0E4A8167.tmp' to '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/Autosaves/Game/fase3_Auto4.umap'
+[2019.05.24-18.50.02:606][716]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/fase3' took 0.270
+[2019.05.24-18.50.02:606][716]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.270
+[2019.05.24-18.50.06:845][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.51.18:663][507]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-18.51.18:766][508]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-18.51.20:347][569]LogInit: XAudio2 using 'Alto-falantes (JBL Flip 4 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.24-18.51.20:781][587]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{590a7df7-3167-493b-ac38-fb0ce820749b} was removed. Shutting down audio device.
+[2019.05.24-18.51.20:834][587]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-18.51.20:990][588]LogInit: XAudio2 using 'Alto-falantes (JBL Flip 4 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.24-18.51.31:405][912]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{590a7df7-3167-493b-ac38-fb0ce820749b} was removed. Shutting down audio device.
+[2019.05.24-18.51.31:405][912]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-18.55.10:450][229]LogEditorViewport: Clicking Background
+[2019.05.24-18.55.10:879][251]Cmd: EDCALLBACK SURFPROPS
+[2019.05.24-18.55.23:235][812]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.55.27:902][ 36]Cmd: POLY SELECT ADJACENT ALL
+[2019.05.24-18.55.39:757][622]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.55.52:899][220]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush25)
+[2019.05.24-18.55.53:396][240]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-18.56.00:243][537]LogEditorViewport: Clicking Background
+[2019.05.24-18.56.06:278][812]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.56.10:302][995]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-18.56.17:753][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.56.19:593][431]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.19:872][445]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.20:033][453]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.20:195][461]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.20:336][467]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.20:478][474]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.20:624][481]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.20:789][489]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.20:950][497]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.21:112][505]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.21:277][513]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.21:438][521]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.21:623][530]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.21:787][538]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.21:949][546]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.22:111][554]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.22:967][597]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.26:005][740]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-18.56.31:770][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.56.31:908][  8]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.32:106][ 18]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.32:311][ 28]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.32:476][ 36]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.32:639][ 44]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.32:784][ 51]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.32:947][ 59]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.33:090][ 66]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.33:277][ 75]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.33:441][ 83]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.33:626][ 92]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.33:824][102]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.34:230][122]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.34:520][136]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.34:725][146]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.35:027][161]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2019.05.24-18.56.37:285][270]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.37:812][296]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.37:995][305]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.38:165][313]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.38:348][322]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.38:514][330]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.38:681][338]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.38:827][345]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.39:008][354]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.39:210][364]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.39:394][373]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.39:575][382]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.39:780][392]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.40:292][417]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.40:523][428]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.40:707][437]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2019.05.24-18.56.42:907][547]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-18.57.00:089][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.57.03:308][506]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-18.57.12:631][930]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.57.17:310][128]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-18.57.20:961][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.57.45:172][372]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.57.48:048][507]Cmd: POLY SELECT ADJACENT ALL
+[2019.05.24-18.57.56:798][874]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush37)
+[2019.05.24-18.58.11:742][508]Cmd: TRANSACTION UNDO
+[2019.05.24-18.58.11:742][508]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.24-18.58.12:474][518]Cmd: TRANSACTION UNDO
+[2019.05.24-18.58.12:474][518]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.24-18.58.13:162][529]Cmd: TRANSACTION UNDO
+[2019.05.24-18.58.13:162][529]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.24-18.58.13:951][544]Cmd: TRANSACTION UNDO
+[2019.05.24-18.58.13:951][544]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.24-18.58.14:662][558]Cmd: TRANSACTION UNDO
+[2019.05.24-18.58.14:662][558]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.24-18.58.17:508][660]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush33)
+[2019.05.24-18.58.18:998][728]Cmd: DELETE
+[2019.05.24-18.58.18:998][728]Cmd: ACTOR DELETE
+[2019.05.24-18.58.19:008][728]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-18.58.19:047][728]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.05.24-18.58.21:188][840]Cmd: TRANSACTION UNDO
+[2019.05.24-18.58.21:188][840]LogEditorTransaction: Undo Delete Actors
+[2019.05.24-18.58.27:576][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-18.58.28:631][124]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-18.58.29:554][156]Cmd: TRANSACTION UNDO
+[2019.05.24-18.58.29:554][156]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.24-18.58.30:446][170]Cmd: TRANSACTION UNDO
+[2019.05.24-18.58.30:447][170]LogEditorTransaction: Undo Select Surfaces
+[2019.05.24-18.58.31:648][204]Cmd: TRANSACTION UNDO
+[2019.05.24-18.58.31:648][204]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.58.32:488][224]Cmd: TRANSACTION UNDO
+[2019.05.24-18.58.32:488][224]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.58.43:514][730]Cmd: TRANSACTION UNDO
+[2019.05.24-18.58.43:514][730]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.58.44:768][764]Cmd: TRANSACTION UNDO
+[2019.05.24-18.58.44:769][764]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.59.10:416][973]Cmd: TRANSACTION UNDO
+[2019.05.24-18.59.10:417][973]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.59.11:170][987]Cmd: TRANSACTION UNDO
+[2019.05.24-18.59.11:170][987]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.59.12:039][  7]Cmd: TRANSACTION UNDO
+[2019.05.24-18.59.12:039][  7]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.59.16:734][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-18.59.26:593][662]Cmd: TRANSACTION UNDO
+[2019.05.24-18.59.26:593][662]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.59.41:493][355]Cmd: TRANSACTION UNDO
+[2019.05.24-18.59.41:493][355]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.59.48:187][652]Cmd: TRANSACTION UNDO
+[2019.05.24-18.59.48:187][652]LogEditorTransaction: Undo Move Actors
+[2019.05.24-18.59.57:965][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.00.17:415][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.00.45:276][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.00.46:946][406]Cmd: POLY SELECT ADJACENT ALL
+[2019.05.24-19.00.51:257][598]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-19.00.57:013][833]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.00.59:105][927]Cmd: POLY SELECT ADJACENT ALL
+[2019.05.24-19.01.03:474][118]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-19.01.08:567][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.02.13:322][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.02.18:528][ 11]Cmd: POLY SELECT ADJACENT ALL
+[2019.05.24-19.02.28:629][489]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.02.40:614][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-19.02.43:158][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.02.53:106][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.02.55:163][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.02.57:296][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.02.59:060][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.03:235][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.04:741][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.06:521][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.08:008][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.09:414][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.10:732][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.12:757][323]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (Sky Sphere mesh)
+[2019.05.24-19.03.12:798][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.03.13:636][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.03.14:913][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.20:358][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.23:390][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.28:557][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.30:283][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.32:861][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.35:390][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.37:010][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.41:450][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.42:910][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.44:797][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.46:284][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.51:588][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.53:422][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.55:504][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.03.58:402][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.04.00:006][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.04.03:489][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.04.05:235][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.04.06:892][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.04.11:291][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.04.12:606][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.04.15:572][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.04.18:420][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.04.21:099][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.04.23:672][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.04.26:114][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.04.29:488][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.04.51:857][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.04.59:631][999]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.04.59:896][999]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/fase3_Auto5A8E520E64CAC1AC205383B9C54FCD125.tmp' to '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/Autosaves/Game/fase3_Auto5.umap'
+[2019.05.24-19.04.59:909][999]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/fase3' took 0.232
+[2019.05.24-19.04.59:909][999]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2019.05.24-19.05.04:238][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.06:490][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.09:281][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.11:436][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.13:811][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.15:768][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.18:730][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.26:132][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.29:794][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.31:783][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.32:094][346]LogMaterial: Display: Missing cached shader map for material T_Brick_Clay_Beveled_Mat, compiling. 
+[2019.05.24-19.05.32:112][346]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.24-19.05.32:112][346]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.24-19.05.32:112][346]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.24-19.05.35:083][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.44:496][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.46:834][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.48:126][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.51:527][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.53:128][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.57:857][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.05.58:997][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.06.00:766][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.06.06:409][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.06.09:244][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.06.14:595][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.06.16:557][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.06.18:280][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.06.21:385][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.06.23:493][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.06.27:035][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.06.28:842][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.06.31:258][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.07.59:018][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.05:600][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.07:409][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.09:528][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.12:164][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.13:699][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.15:114][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.17:375][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.21:460][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.28:731][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.34:359][469]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.08.37:674][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.41:409][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.46:959][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.50:305][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.08.53:757][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.09.05:552][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.09.05:623][839]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-19.09.05:640][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.09.05:640][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-19.09.05:640][839]PIE: New page: PIE session: fase3 (May 24, 2019, 1:09:05 PM)
+[2019.05.24-19.09.05:641][839]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase3
+[2019.05.24-19.09.05:654][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013674s)
+[2019.05.24-19.09.05:657][839]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-19.09.05:657][839]LogPlayLevel: PIE: World Init took: (0.001435s)
+[2019.05.24-19.09.05:657][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase3.fase3 to /Game/UEDPIE_0_fase3.fase3 (0.016801s)
+[2019.05.24-19.09.05:694][839]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-19.09.05:715][839]LogInit: FAudioDevice initialized.
+[2019.05.24-19.09.05:751][839]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.24-19.09.05:753][839]LogWorld: Bringing World /Game/UEDPIE_0_fase3.fase3 up for play (max tick rate 60) at 2019.05.24-16.09.05
+[2019.05.24-19.09.05:753][839]LogWorld: Bringing up level for play took: 0.000800
+[2019.05.24-19.09.05:767][839]PIE: Play in editor start time for /Game/UEDPIE_0_fase3 1.075
+[2019.05.24-19.09.05:781][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.09.08:998][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.09.08:999][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-19.09.09:043][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-19.09.09:043][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.09.09:088][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-19.09.09:166][993]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.05.24-19.09.14:432][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.09.18:938][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.09.18:987][397]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-19.09.19:002][397]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.09.19:002][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-19.09.19:002][397]PIE: New page: PIE session: fase3 (May 24, 2019, 1:09:19 PM)
+[2019.05.24-19.09.19:002][397]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase3
+[2019.05.24-19.09.19:016][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013192s)
+[2019.05.24-19.09.19:016][397]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-19.09.19:017][397]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2019.05.24-19.09.19:017][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase3.fase3 to /Game/UEDPIE_0_fase3.fase3 (0.014178s)
+[2019.05.24-19.09.19:049][397]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-19.09.19:067][397]LogInit: FAudioDevice initialized.
+[2019.05.24-19.09.19:103][397]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.24-19.09.19:104][397]LogWorld: Bringing World /Game/UEDPIE_0_fase3.fase3 up for play (max tick rate 60) at 2019.05.24-16.09.19
+[2019.05.24-19.09.19:104][397]LogWorld: Bringing up level for play took: 0.000760
+[2019.05.24-19.09.19:118][397]PIE: Play in editor start time for /Game/UEDPIE_0_fase3 0.426
+[2019.05.24-19.09.19:124][397]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.09.26:019][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.09.26:020][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-19.09.26:062][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-19.09.26:062][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.09.26:086][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-19.09.26:161][745]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.05.24-19.09.50:160][979]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-19.10.05:521][643]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.05.24-19.10.09:732][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.10.18:205][145]Cmd: TRANSACTION UNDO
+[2019.05.24-19.10.18:205][145]LogEditorTransaction: Undo Move Actors
+[2019.05.24-19.10.22:139][277]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.05.24-19.10.23:526][315]Cmd: EDIT COPY
+[2019.05.24-19.10.23:778][327]Cmd: EDIT PASTE
+[2019.05.24-19.10.29:718][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.10.31:166][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.10.47:364][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.11.15:127][286]Cmd: TRANSACTION UNDO
+[2019.05.24-19.11.15:127][286]LogEditorTransaction: Undo Move Actors
+[2019.05.24-19.11.16:317][313]Cmd: EDIT COPY
+[2019.05.24-19.11.16:748][330]Cmd: EDIT PASTE
+[2019.05.24-19.11.22:613][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.11.34:575][935]LogSlate: Window 'Select Path' being destroyed
+[2019.05.24-19.11.34:593][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.11.35:104][935]LogStaticMesh: Building static mesh Predio1...
+[2019.05.24-19.11.35:132][935]LogStaticMesh: Built static mesh [0.03s] /Game/Construcoes/predio/Predio1.Predio1
+[2019.05.24-19.11.35:148][935]LogActorFactory: Actor Factory created Predio1
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush39' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush40' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush41' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush42' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush43' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush44' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush45' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush46' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush47' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush48' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush49' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush50' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush51' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush52' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush53' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush54' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush55' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush56' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush57' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush58' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush59' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush60' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:195][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush61' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush62' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush63' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush64' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush65' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush66' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush67' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush68' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush69' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush70' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush71' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush72' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush73' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush74' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush75' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]LogEditor: Error: Actor 'Brush /Game/fase3.fase3:PersistentLevel.BoxBrush76' is marked pending kill and cannot be converted
+[2019.05.24-19.11.35:196][935]EditorErrors: New page: Actor Reattachment
+[2019.05.24-19.11.46:850][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.11.58:273][788]Cmd: EDIT CUT
+[2019.05.24-19.11.58:288][788]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.11.58:323][788]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.05.24-19.11.59:575][851]Cmd: TRANSACTION UNDO
+[2019.05.24-19.11.59:575][851]LogEditorTransaction: Undo Cut
+[2019.05.24-19.12.00:195][856]Cmd: TRANSACTION UNDO
+[2019.05.24-19.12.00:195][856]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.24-19.12.00:662][858]Cmd: TRANSACTION UNDO
+[2019.05.24-19.12.00:662][858]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.24-19.12.01:118][859]Cmd: TRANSACTION UNDO
+[2019.05.24-19.12.01:118][859]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.24-19.12.01:519][865]Cmd: TRANSACTION UNDO
+[2019.05.24-19.12.01:519][865]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.24-19.12.02:066][868]Cmd: TRANSACTION UNDO
+[2019.05.24-19.12.02:066][868]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.24-19.12.02:592][871]Cmd: TRANSACTION UNDO
+[2019.05.24-19.12.02:592][871]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.24-19.12.03:051][872]Cmd: TRANSACTION UNDO
+[2019.05.24-19.12.03:051][872]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.24-19.12.03:616][873]Cmd: TRANSACTION UNDO
+[2019.05.24-19.12.03:616][873]LogEditorTransaction: Undo Convert Actors
+[2019.05.24-19.12.04:201][874]Cmd: TRANSACTION UNDO
+[2019.05.24-19.12.04:201][874]LogEditorTransaction: Undo Move Actors
+[2019.05.24-19.12.04:644][875]Cmd: TRANSACTION UNDO
+[2019.05.24-19.12.04:644][875]LogEditorTransaction: Undo Paste
+[2019.05.24-19.12.14:015][237]Cmd: EDIT COPY
+[2019.05.24-19.12.18:437][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.12.19:019][444]LogAIModule: Creating AISystem for world testes
+[2019.05.24-19.12.19:110][444]LogAssetEditorManager: Opening Asset editor for World /Game/testes.testes
+[2019.05.24-19.12.21:579][444]LogSlate: Window 'Save Content' being destroyed
+[2019.05.24-19.12.21:603][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fase3" FILE="../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/fase3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.24-19.12.21:862][444]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/fase331C444824445C411B633BF84968C1D72.tmp' to '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/fase3.umap'
+[2019.05.24-19.12.21:908][444]LogFileHelpers: Saving map 'fase3' took 0.306
+[2019.05.24-19.12.21:937][444]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/T_Brick_Clay_Beveled_Mat1AA690B94C9414E5A44A56ACBCE4FDBD.tmp' to '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/StarterContent/Textures/T_Brick_Clay_Beveled_Mat.uasset'
+[2019.05.24-19.12.21:945][444]Cmd: MAP LOAD FILE="../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/testes.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.24-19.12.21:945][444]LightingResults: New page: Lighting Build
+[2019.05.24-19.12.21:946][444]LoadErrors: New page: Loading map: testes.umap
+[2019.05.24-19.12.21:947][444]MapCheck: New page: Map Check
+[2019.05.24-19.12.21:947][444]LightingResults: New page: Lighting Build
+[2019.05.24-19.12.25:755][444]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.24-19.12.25:799][444]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.24-19.12.25:799][444]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2019.05.24-19.12.25:799][444]LogFileHelpers: Loading map 'testes' took 3.859
+[2019.05.24-19.12.25:886][444]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-19.12.27:554][514]Cmd: EDIT PASTE
+[2019.05.24-19.12.35:940][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.12.49:375][204]LogSlate: Window 'Select Path' being destroyed
+[2019.05.24-19.12.51:114][274]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.05.24-19.12.52:467][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.12.54:465][392]LogActorFactory: Actor Factory created Predio1
+[2019.05.24-19.12.55:528][432]LogActorFactory: Actor Factory created Predio1
+[2019.05.24-19.12.57:849][516]Cmd: TRANSACTION UNDO
+[2019.05.24-19.12.57:850][516]LogEditorTransaction: Undo Move Actors
+[2019.05.24-19.12.58:649][535]Cmd: TRANSACTION UNDO
+[2019.05.24-19.12.58:649][535]LogEditorTransaction: Undo Create Actors
+[2019.05.24-19.12.59:495][542]Cmd: TRANSACTION UNDO
+[2019.05.24-19.12.59:495][542]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.24-19.13.00:387][551]Cmd: TRANSACTION UNDO
+[2019.05.24-19.13.00:387][551]LogEditorTransaction: Undo Move Actors
+[2019.05.24-19.13.02:438][613]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-19.13.06:921][786]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.24-19.13.09:899][904]Cmd: DELETE
+[2019.05.24-19.13.09:899][904]Cmd: ACTOR DELETE
+[2019.05.24-19.13.09:957][904]LogEditorActor: Deleted Actor: Landscape
+[2019.05.24-19.13.10:002][904]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2019.05.24-19.13.11:043][951]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.24-19.13.11:944][979]Cmd: DELETE
+[2019.05.24-19.13.11:944][979]Cmd: ACTOR DELETE
+[2019.05.24-19.13.12:000][979]LogEditorActor: Deleted Actor: Landscape
+[2019.05.24-19.13.12:043][979]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2019.05.24-19.13.12:877][ 18]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.05.24-19.13.20:396][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.13.22:928][416]LogAssetEditorManager: Opening Asset editor for World /Game/fase3.fase3
+[2019.05.24-19.13.25:107][416]LogSlate: Window 'Save Content' being destroyed
+[2019.05.24-19.13.25:130][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/testes" FILE="../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/testes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.24-19.13.26:844][416]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/testesBF26045A45856091D5AD04A11203CD66.tmp' to '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/testes.umap'
+[2019.05.24-19.13.26:894][416]LogFileHelpers: Saving map 'testes' took 1.765
+[2019.05.24-19.13.26:920][416]Cmd: MAP LOAD FILE="../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/fase3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.24-19.13.26:920][416]LightingResults: New page: Lighting Build
+[2019.05.24-19.13.26:921][416]LoadErrors: New page: Loading map: fase3.umap
+[2019.05.24-19.13.26:931][416]MapCheck: New page: Map Check
+[2019.05.24-19.13.26:931][416]LightingResults: New page: Lighting Build
+[2019.05.24-19.13.26:978][416]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.24-19.13.27:032][416]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.24-19.13.27:032][416]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2019.05.24-19.13.27:043][416]LogFileHelpers: Loading map 'fase3' took 0.132
+[2019.05.24-19.13.27:350][416]LogAIModule: Creating AISystem for world testes
+[2019.05.24-19.13.48:982][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.13.52:182][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:182][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:182][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:183][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:183][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:183][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:183][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:183][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:184][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:184][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:184][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:184][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:184][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:185][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:185][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:185][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:185][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:185][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:185][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:186][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:186][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:186][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:187][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:187][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:187][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:187][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:188][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:188][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:188][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:188][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:188][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:189][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:189][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:189][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:189][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:189][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:190][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:190][551]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.13.52:213][551]LogEditorActor: Deleted 38 Actors (0.042 secs)
+[2019.05.24-19.14.06:169][835]LogSlate: Window 'Save Content' being destroyed
+[2019.05.24-19.14.06:182][835]Cmd: MAP LOAD FILE="../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/testes.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.24-19.14.06:228][835]LightingResults: New page: Lighting Build
+[2019.05.24-19.14.06:229][835]LoadErrors: New page: Loading map: testes.umap
+[2019.05.24-19.14.06:229][835]MapCheck: New page: Map Check
+[2019.05.24-19.14.06:230][835]LightingResults: New page: Lighting Build
+[2019.05.24-19.14.06:547][835]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.24-19.14.06:632][835]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.24-19.14.06:633][835]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.246ms to complete.
+[2019.05.24-19.14.06:633][835]LogFileHelpers: Loading map 'testes' took 0.459
+[2019.05.24-19.14.06:634][835]LogSlate: Window 'Open Level' being destroyed
+[2019.05.24-19.14.10:161][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.14.10:380][958]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-19.14.10:403][958]LogAssetEditorManager: Opening Asset editor for World /Game/fase3.fase3
+[2019.05.24-19.14.10:437][958]Cmd: MAP LOAD FILE="../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/fase3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.24-19.14.10:437][958]LightingResults: New page: Lighting Build
+[2019.05.24-19.14.10:437][958]LoadErrors: New page: Loading map: fase3.umap
+[2019.05.24-19.14.10:445][958]MapCheck: New page: Map Check
+[2019.05.24-19.14.10:445][958]LightingResults: New page: Lighting Build
+[2019.05.24-19.14.10:485][958]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.24-19.14.10:527][958]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.24-19.14.10:527][958]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2019.05.24-19.14.10:527][958]LogFileHelpers: Loading map 'fase3' took 0.096
+[2019.05.24-19.14.13:443][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.14.16:810][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:811][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:811][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:811][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:811][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:811][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:812][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:812][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:812][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:812][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:812][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:813][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:813][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:813][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:813][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:815][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:815][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:815][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:815][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:816][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:817][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:817][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:817][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:817][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:817][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:817][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:818][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:818][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:818][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:818][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:818][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:818][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:818][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:818][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:818][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:818][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:820][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:820][168]LogEditorActor: Deleted Actor: Brush
+[2019.05.24-19.14.16:843][168]LogEditorActor: Deleted 38 Actors (0.045 secs)
+[2019.05.24-19.14.18:637][253]LogTexture: Display: Building textures: Texture2D_5 (G8, 128X128)
+[2019.05.24-19.14.22:223][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.14.31:259][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.14.31:416][835]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.05.24-19.14.41:825][275]Cmd: TRANSACTION UNDO
+[2019.05.24-19.14.41:825][275]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.05.24-19.14.48:658][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.15.00:830][ 71]Cmd: TRANSACTION UNDO
+[2019.05.24-19.15.00:830][ 71]LogEditorTransaction: Undo Move Actors
+[2019.05.24-19.15.01:684][ 79]Cmd: TRANSACTION UNDO
+[2019.05.24-19.15.01:684][ 79]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2019.05.24-19.15.21:568][845]Cmd: TRANSACTION UNDO
+[2019.05.24-19.15.21:568][845]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2019.05.24-19.15.47:692][912]Cmd: DELETE
+[2019.05.24-19.15.47:692][912]Cmd: ACTOR DELETE
+[2019.05.24-19.15.47:703][912]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.15.49:119][912]LogSlate: Window 'Message' being destroyed
+[2019.05.24-19.16.07:552][682]Cmd: TRANSACTION UNDO
+[2019.05.24-19.16.07:552][682]LogEditorTransaction: Undo Move Actors
+[2019.05.24-19.16.08:473][691]Cmd: TRANSACTION UNDO
+[2019.05.24-19.16.08:473][691]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2019.05.24-19.16.09:485][708]Cmd: TRANSACTION UNDO
+[2019.05.24-19.16.09:485][708]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2019.05.24-19.16.31:025][609]Cmd: TRANSACTION UNDO
+[2019.05.24-19.16.31:025][609]LogEditorTransaction: Undo Split Landscape Spline Segment
+[2019.05.24-19.16.31:679][621]Cmd: TRANSACTION UNDO
+[2019.05.24-19.16.31:679][621]LogEditorTransaction: Undo Split Landscape Spline Segment
+[2019.05.24-19.16.32:545][636]Cmd: TRANSACTION UNDO
+[2019.05.24-19.16.32:545][636]LogEditorTransaction: Undo Split Landscape Spline Segment
+[2019.05.24-19.16.33:730][676]Cmd: TRANSACTION UNDO
+[2019.05.24-19.16.33:730][676]LogEditorTransaction: Undo Split Landscape Spline Segment
+[2019.05.24-19.16.34:761][704]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-19.16.39:327][899]Cmd: TRANSACTION UNDO
+[2019.05.24-19.16.39:327][899]LogEditorTransaction: Undo Split Landscape Spline Segment
+[2019.05.24-19.16.45:324][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.16.46:967][194]Cmd: TRANSACTION UNDO
+[2019.05.24-19.16.46:967][194]LogEditorTransaction: Undo Add Child
+[2019.05.24-19.17.07:629][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.17.07:700][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-19.17.07:717][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.17.07:717][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-19.17.07:717][ 14]PIE: New page: PIE session: fase3 (May 24, 2019, 1:17:07 PM)
+[2019.05.24-19.17.07:718][ 14]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase3
+[2019.05.24-19.17.07:741][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023326s)
+[2019.05.24-19.17.07:742][ 14]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-19.17.07:742][ 14]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2019.05.24-19.17.07:742][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase3.fase3 to /Game/UEDPIE_0_fase3.fase3 (0.024192s)
+[2019.05.24-19.17.07:772][ 14]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-19.17.07:792][ 14]LogInit: FAudioDevice initialized.
+[2019.05.24-19.17.07:827][ 14]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.24-19.17.07:830][ 14]LogWorld: Bringing World /Game/UEDPIE_0_fase3.fase3 up for play (max tick rate 60) at 2019.05.24-16.17.07
+[2019.05.24-19.17.07:831][ 14]LogWorld: Bringing up level for play took: 0.002609
+[2019.05.24-19.17.07:851][ 14]PIE: Play in editor start time for /Game/UEDPIE_0_fase3 -0.841
+[2019.05.24-19.17.07:852][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.17.09:273][ 73]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.17.09:273][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-19.17.09:322][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-19.17.09:323][ 73]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.17.09:383][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-19.17.09:473][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.05.24-19.17.18:300][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.17.31:612][983]Cmd: TRANSACTION UNDO
+[2019.05.24-19.17.31:612][983]LogEditorTransaction: Undo Edit Mesh
+[2019.05.24-19.17.33:929][ 51]Cmd: TRANSACTION REDO
+[2019.05.24-19.17.33:929][ 51]LogEditorTransaction: Redo Edit Mesh
+[2019.05.24-19.17.36:376][120]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2019.05.24-19.17.45:624][488]Cmd: TRANSACTION UNDO
+[2019.05.24-19.17.45:624][488]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2019.05.24-19.17.46:524][497]Cmd: TRANSACTION UNDO
+[2019.05.24-19.17.46:524][497]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2019.05.24-19.17.47:372][508]Cmd: TRANSACTION UNDO
+[2019.05.24-19.17.47:372][508]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2019.05.24-19.17.48:667][529]Cmd: TRANSACTION UNDO
+[2019.05.24-19.17.48:667][529]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2019.05.24-19.17.49:818][551]Cmd: TRANSACTION UNDO
+[2019.05.24-19.17.49:818][551]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2019.05.24-19.17.51:029][573]Cmd: TRANSACTION UNDO
+[2019.05.24-19.17.51:029][573]LogEditorTransaction: Undo Edit Mesh
+[2019.05.24-19.18.02:958][ 74]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.24-19.18.26:867][ 14]Cmd: TRANSACTION UNDO
+[2019.05.24-19.18.26:867][ 14]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2019.05.24-19.18.27:640][ 20]Cmd: TRANSACTION UNDO
+[2019.05.24-19.18.27:640][ 20]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2019.05.24-19.18.29:013][ 48]Cmd: TRANSACTION UNDO
+[2019.05.24-19.18.29:013][ 48]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2019.05.24-19.18.36:800][335]Cmd: TRANSACTION UNDO
+[2019.05.24-19.18.36:800][335]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2019.05.24-19.18.38:717][385]Cmd: TRANSACTION UNDO
+[2019.05.24-19.18.38:717][385]LogEditorTransaction: Undo Split Landscape Spline Segment
+[2019.05.24-19.18.46:724][676]Cmd: TRANSACTION UNDO
+[2019.05.24-19.18.46:724][676]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2019.05.24-19.18.47:630][685]Cmd: TRANSACTION UNDO
+[2019.05.24-19.18.47:630][685]LogEditorTransaction: Undo Split Landscape Spline Segment
+[2019.05.24-19.18.48:712][704]Cmd: TRANSACTION UNDO
+[2019.05.24-19.18.48:712][704]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2019.05.24-19.18.49:879][728]Cmd: TRANSACTION UNDO
+[2019.05.24-19.18.49:879][728]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.24-19.18.50:974][745]Cmd: TRANSACTION UNDO
+[2019.05.24-19.18.50:974][745]LogEditorTransaction: Undo Add Child
+[2019.05.24-19.18.51:857][767]Cmd: TRANSACTION UNDO
+[2019.05.24-19.18.51:857][767]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.24-19.19.03:037][191]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-19.19.12:078][545]Cmd: TRANSACTION UNDO
+[2019.05.24-19.19.12:078][545]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2019.05.24-19.19.38:004][508]Cmd: TRANSACTION UNDO
+[2019.05.24-19.19.38:004][508]LogEditorTransaction: Undo Split Landscape Spline Segment
+[2019.05.24-19.19.39:230][538]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-19.19.47:512][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.19.56:075][190]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-19.19.58:915][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.20.01:378][401]Cmd: SELECT NONE
+[2019.05.24-19.20.03:060][465]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-19.20.08:968][686]Cmd: TRANSACTION UNDO
+[2019.05.24-19.20.08:968][686]LogEditorTransaction: Undo Move Actors
+[2019.05.24-19.20.10:861][732]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-19.20.12:519][787]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.24-19.20.15:220][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.20.15:310][891]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-19.20.15:328][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.20.15:328][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-19.20.15:329][891]PIE: New page: PIE session: fase3 (May 24, 2019, 1:20:15 PM)
+[2019.05.24-19.20.15:329][891]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_fase3
+[2019.05.24-19.20.15:361][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031156s)
+[2019.05.24-19.20.15:361][891]LogAIModule: Creating AISystem for world fase3
+[2019.05.24-19.20.15:361][891]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2019.05.24-19.20.15:361][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/fase3.fase3 to /Game/UEDPIE_0_fase3.fase3 (0.032125s)
+[2019.05.24-19.20.15:394][891]LogInit: XAudio2 using 'Alto-falantes (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-19.20.15:413][891]LogInit: FAudioDevice initialized.
+[2019.05.24-19.20.15:447][891]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.24-19.20.15:450][891]LogWorld: Bringing World /Game/UEDPIE_0_fase3.fase3 up for play (max tick rate 60) at 2019.05.24-16.20.15
+[2019.05.24-19.20.15:451][891]LogWorld: Bringing up level for play took: 0.002210
+[2019.05.24-19.20.15:470][891]PIE: Play in editor start time for /Game/UEDPIE_0_fase3 0.777
+[2019.05.24-19.20.15:470][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.20.16:061][911]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.20.16:062][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-19.20.16:109][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-19.20.16:109][911]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/fase3.fase3:PersistentLevel' has LevelScriptBlueprint '/Game/fase3.fase3:PersistentLevel.fase3' with GeneratedClass '/Game/fase3.fase3_C' with ClassGeneratedBy '/Game/fase3.fase3:PersistentLevel.fase3'
+[2019.05.24-19.20.16:140][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-19.20.16:236][912]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.05.24-19.20.32:524][607]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.24-19.20.35:731][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.20.41:932][961]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.20.45:740][130]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2019.05.24-19.20.46:862][177]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 32X32)
+[2019.05.24-19.20.49:611][278]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 32X32)
+[2019.05.24-19.20.49:958][290]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 32X32)
+[2019.05.24-19.20.50:312][304]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 32X32)
+[2019.05.24-19.20.50:579][315]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 32X32)
+[2019.05.24-19.20.50:857][326]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 32X32)
+[2019.05.24-19.20.54:145][452]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 32X32)
+[2019.05.24-19.20.54:452][465]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 32X32)
+[2019.05.24-19.20.55:331][502]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 32X32)
+[2019.05.24-19.20.56:921][559]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 32X32)
+[2019.05.24-19.20.57:216][565]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 32X32)
+[2019.05.24-19.20.57:414][569]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 32X32)
+[2019.05.24-19.20.58:527][615]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 32X32)
+[2019.05.24-19.21.04:173][829]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 32X32)
+[2019.05.24-19.21.04:369][833]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 32X32)
+[2019.05.24-19.21.04:635][843]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2019.05.24-19.21.04:903][853]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 32X32)
+[2019.05.24-19.21.05:094][860]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 32X32)
+[2019.05.24-19.21.05:307][867]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 32X32)
+[2019.05.24-19.21.05:378][869]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 32X32)
+[2019.05.24-19.21.05:645][879]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 32X32)
+[2019.05.24-19.21.07:222][933]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 32X32)
+[2019.05.24-19.21.24:886][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.21.29:229][842]LogActorFactory: Actor Factory created Predio1
+[2019.05.24-19.21.30:022][875]LogActorFactory: Actor Factory created Predio1
+[2019.05.24-19.21.31:591][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-19.21.32:333][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Predio1)
+[2019.05.24-19.21.48:024][567]Cmd: EDIT COPY
+[2019.05.24-19.21.48:504][584]Cmd: EDIT PASTE
+[2019.05.24-19.22.02:983][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Predio2)
+[2019.05.24-19.22.03:815][137]Cmd: EDIT PASTE
+[2019.05.24-19.22.03:837][137]Cmd: EDIT COPY
+[2019.05.24-19.22.04:393][142]Cmd: EDIT PASTE
+[2019.05.24-19.22.17:936][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Predio4)
+[2019.05.24-19.22.49:391][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.22.52:222][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.22.52:274][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fase3" FILE="../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/fase3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.24-19.22.52:401][ 73]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.05.24-19.22.52:403][ 73]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2019.05.24-19.22.52:403][ 73]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 32X32)
+[2019.05.24-19.22.52:404][ 73]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 32X32)
+[2019.05.24-19.22.52:404][ 73]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 32X32)
+[2019.05.24-19.22.52:405][ 73]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 32X32)
+[2019.05.24-19.22.52:405][ 73]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 32X32)
+[2019.05.24-19.22.52:406][ 73]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 32X32)
+[2019.05.24-19.22.52:406][ 73]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 32X32)
+[2019.05.24-19.22.52:407][ 73]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 32X32)
+[2019.05.24-19.22.52:408][ 73]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 32X32)
+[2019.05.24-19.22.52:408][ 73]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 32X32)
+[2019.05.24-19.22.52:409][ 73]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 32X32)
+[2019.05.24-19.22.52:410][ 73]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 32X32)
+[2019.05.24-19.22.52:410][ 73]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 32X32)
+[2019.05.24-19.22.52:411][ 73]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 32X32)
+[2019.05.24-19.22.52:412][ 73]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 32X32)
+[2019.05.24-19.22.52:413][ 73]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2019.05.24-19.22.52:414][ 73]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 32X32)
+[2019.05.24-19.22.52:414][ 73]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 32X32)
+[2019.05.24-19.22.52:415][ 73]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 32X32)
+[2019.05.24-19.22.52:416][ 73]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 32X32)
+[2019.05.24-19.22.52:417][ 73]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 32X32)
+[2019.05.24-19.22.52:417][ 73]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 32X32)
+[2019.05.24-19.22.52:707][ 73]LogSavePackage: Moving '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Saved/fase34A38FFD3488E88BB56BCC291529E7A20.tmp' to '../../../../../../Users/Avell/Documents/fireman-joe/firemanJoe/FiremanJoe/Content/fase3.umap'
+[2019.05.24-19.22.52:745][ 73]LogFileHelpers: Saving map 'fase3' took 0.471
+[2019.05.24-19.23.01:820][137]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.24-19.23.02:530][149]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.23.02:790][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.24-19.23.03:168][174]LogSlate: FSceneViewport::OnFocusLost() reason 2
